@@ -1,0 +1,30 @@
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-5">
+
+<section class="artistinfo">
+  <div class="artist cf" ng-model="artists">
+    <h1>{{comicsItem.title}}</h1>
+    <div class="info">
+      <h3 class="creators cf" ng-repeat="creator in comicsItem.creator"><a href='#/search?f=creator_keyword:"{{creator}}"'>{{creator}}</a></h3>
+      <span class="label label-primary">{{comicsItem.shelfrank}}</span>
+      <div class="bio">{{comicsItem.note[0]}}</div>
+      <h4 ng-show='addedInfo.awards != null'>Awards</h4>
+      <p class="awards cf" ng-repeat="award in addedInfo.awards">
+        {{award}}
+      </p>
+      <!--<br><br>
+      <p class="label label-success" ng-show="isIllustrated(comicsItem.source_record.300b)">Mostly illustrations</p>
+      <p class="label label-danger" ng-show="!isIllustrated(comicsItem.source_record.300b)">Mostly text</p>
+      <br><br>
+      <h4 ng-show='comicsItem.loc_call_num_subject != null'>Main Subject</h4>
+      <p class="loc-subjects cf" ng-repeat="locSubject in comicsItem.loc_call_num_subject">{{locSubject}}</p>-->
+      <br><br>
+      <h4 ng-show='comicsItem.lcsh != null'>Subjects</h4>
+      <p class="subjects cf" ng-repeat="subject in comicsItem.lcsh"><a href='#/search?f=lcsh_keyword:"{{subject}}"'>{{subject}}</a></p>
+    </div>
+  </div>
+</section>
+</div>
+</div>
+</div>

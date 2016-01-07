@@ -1,0 +1,5852 @@
+{
+
+    "num_found": 30,
+    "docs": 
+
+{
+
+    "0": 
+
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM",
+    "HYL"
+
+],
+"lcsh": 
+[
+
+    "Prostitutes Comic books, strips, etc.",
+    "Male prostitutes Comic books, strips, etc.",
+    "Crocodiles as pets Comic books, strips, etc.",
+    "Dysfunctional families Comic books, strips, etc.",
+    "Man-woman relationships Comic books, strips, etc.",
+    "Graphic novels Japan Translations into English.",
+    "Graphic novels.",
+    "Comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"pages_numeric": 249,
+"score_holding_libs": 2,
+"id_isbn": 
+[
+
+    "9781939130129",
+    "1939130123"
+
+],
+"id": "FEFF4A8F-FC44-0B59-0910-B9E7B8CCF30C",
+"collection": "hollis_catalog",
+"title_sort": "Pink",
+"call_num": 
+[
+
+    "PN6790.J33 O37613 2013"
+
+],
+"height": "21 cm",
+"title_link_friendly": "pink",
+"creator": 
+[
+
+    "Okazaki, Kyōko, 1963-",
+    "Vertical, Inc, translator."
+
+],
+"pub_date": "2013",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country"
+
+],
+"pub_location": "New York, NY",
+"score_reserves": 1,
+"pages": "249 pages",
+"id_lccn": "2014381740",
+"loc_call_num_sort_order": 
+[
+
+    8409662
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Pink",
+"language": "English",
+"id_inst": "014118142",
+"id_oclc": "(PromptCat)999591366",
+"note": 
+[
+
+    "\"Originally published in Japanese as Pink by Magazine House, Ltd., 1989, and reissued in a new edition in 2010\"--Colophon.",
+    "This book reads from right to left",
+    "\"Yumiko moonlights as a call girl because her day job doesn't pay enough to feed her pet, Croc. Haru, an aspiring writer who has nothing to say, sleeps with a woman his mother's age not just for the money but to work on his 'powers of observation'. So when Yumi's step-mom turns out to be Haru's sugar-mommy, it is time for shenanigans. A little bit of drinking, a little bit of blackmail and a visit with Croc is enough to change lives and maybe add some color to a comfortable but bland life.\"--Publisher's website"
+
+],
+"height_numeric": 21,
+"format": "Book",
+"publisher": "Vertical, Inc.",
+"pub_date_numeric": 2013,
+"source_record": 
+{
+
+    "6502": "fast",
+    "988a": "20140715",
+    "899a": "415_565185",
+    "338a": "volume",
+    "710a": "Vertical, Inc,",
+    "500a": 
+
+[
+
+    "\"Originally published in Japanese as Pink by Magazine House, Ltd., 1989, and reissued in a new edition in 2010\"--Colophon.",
+    "This book reads from right to left."
+
+],
+"520a": "\"Yumiko moonlights as a call girl because her day job doesn't pay enough to feed her pet, Croc. Haru, an aspiring writer who has nothing to say, sleeps with a woman his mother's age not just for the money but to work on his 'powers of observation'. So when Yumi's step-mom turns out to be Haru's sugar-mommy, it is time for shenanigans. A little bit of drinking, a little bit of blackmail and a visit with Croc is enough to change lives and maybe add some color to a comfortable but bland life.\"--Publisher's website.",
+"245a": "Pink /",
+"710e": "translator.",
+"035a": 
+[
+
+    "(PromptCat)99959136694",
+    "ocn839389337"
+
+],
+"245c": "Kyoko Okazaki ; translation provided by Vertical, Inc.",
+"100a": "Okazaki, Kyōko,",
+"9060": "OCLC",
+"043a": "a-ja---",
+"100d": "1963-",
+"100e": 
+[
+
+    "author,",
+    "artist."
+
+],
+"6552": "gsafd",
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"016a": "016495805",
+"521a": "Ages 18+.",
+"650a": 
+[
+
+    "Prostitutes",
+    "Male prostitutes",
+    "Crocodiles as pets",
+    "Dysfunctional families",
+    "Man-woman relationships",
+    "Graphic novels",
+    "Graphic novels."
+
+],
+"020a": 
+[
+
+    "9781939130129 (pbk.)",
+    "1939130123 (pbk.)"
+
+],
+"250a": "First edition.",
+"040a": "YDXCP",
+"040b": "eng",
+"040c": "YDXCP",
+"040d": 
+[
+
+    "DLC",
+    "BTCTA",
+    "UKMGB",
+    "B@L",
+    "OCLCO",
+    "HCO",
+    "FXN",
+    "OCLCF",
+    "ZCU",
+    "T7L"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Translations into English."
+
+],
+"0822": "23",
+"650z": "Japan",
+"546a": "Translated from the Japanese.",
+"655a": 
+[
+
+    "Comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"336a": 
+
+        [
+            "text",
+            "still image"
+        ],
+        "300a": "249 pages :",
+        "300b": "chiefly illustrations ;",
+        "300c": "21 cm",
+        "041a": "eng",
+        "score_total": "1",
+        "3382": "rdacarrier",
+        "041h": "jpn",
+        "337a": "unmediated",
+        "010a": "  2014381740",
+        "240a": "Pink.",
+        "042a": "lccopycat",
+        "260a": "New York, NY :",
+        "260b": "Vertical, Inc.,",
+        "050a": "PN6790.J33",
+        "260c": "2013.",
+        "050b": "O37613 2013",
+        "082a": "741.5/952",
+        "0162": "Uk",
+        "240l": "English",
+        "6500": "(OCoLC)fst00946656"
+    }
+
+},
+"1": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Women spies Comic books, strips, etc. Fiction.",
+    "Ambassadors Europe Comic books, strips, etc. Fiction.",
+    "Americans Europe Comic books, strips, etc. Fiction.",
+    "Graphic novels.",
+    "Suspense fiction, French Translations into English.",
+    "Young adult fiction, French Translations into English."
+
+],
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9781905460724",
+    "1905460724",
+    "9781849180245",
+    "97818491"
+
+],
+"id": "1BFF2199-7539-13BF-F602-D9A903E8202D",
+"collection": "hollis_catalog",
+"title_sort": "Lady S",
+"height": "26 cm",
+"title_link_friendly": "lady-s",
+"creator": 
+[
+
+    "Hamme, van, 1939-",
+    "Aymond, Philippe."
+
+],
+"pub_date": "2008",
+"pub_location": "Ashford",
+"pages": "v",
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Lady S",
+"language": "English",
+"id_inst": "011814032",
+"id_oclc": "ocn317290164",
+"height_numeric": 26,
+"format": "Book",
+"publisher": "Cinebook",
+"pub_date_numeric": 2008,
+"source_record": 
+{
+
+    "988a": "20090124",
+    "899a": "415_565426",
+    "245a": "Lady S. /",
+    "035a": "ocn317290164",
+    "100a": "Hamme,",
+    "245c": "drawing and colour work, Philippe Aymond ; script, Jean Van Hamme.",
+    "9060": "MH",
+    "043a": "e------",
+    "100c": "van,",
+    "100d": "1939-",
+    "505a": "1. Here's to Suzie! -- 2. Latitude 59 degrees North -- 3. Game of fools -- 4. A Mole in D.C. -- 5. Portuguese medley.",
+    "650a": 
+
+[
+
+    "Women spies",
+    "Ambassadors",
+    "Americans",
+    "Graphic novels.",
+    "Suspense fiction, French",
+    "Young adult fiction, French"
+
+],
+"020a": 
+[
+
+    "9781905460724 (v. 1)",
+    "1905460724 (v. 1)",
+    "9781849180245 (v. 2)",
+    "9781849180962 (v. 3)",
+    "9781849181631 (v. 4)",
+    "9781849182225 (v. 5)"
+
+],
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Fiction.",
+    "Comic books, strips, etc.",
+    "Fiction.",
+    "Comic books, strips, etc.",
+    "Fiction.",
+    "Translations into English.",
+    "Translations into English."
+
+],
+"toc": "1. Here's to Suzie! -- 2. Latitude 59 degrees North -- 3. Game of fools -- 4. A Mole in D.C. -- 5. Portuguese medley",
+"650z": 
+[
+
+    "Europe",
+    "Europe"
+
+],
+"546a": "Translated from the French.",
+"700a": "Aymond, Philippe.",
+"300a": "v. :",
+"740a": 
+
+        [
+            "Here's to Suzie!",
+            "Latitude 59 degrees North.",
+            "Mole in D.C.",
+            "Portuguese medley."
+        ],
+        "300b": "chiefly col. ill. ;",
+        "300c": "26 cm.",
+        "041a": "eng",
+        "041h": "fre",
+        "260a": "Ashford :",
+        "260b": "Cinebook,",
+        "260c": "2008-"
+    }
+
+},
+"2": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Sex in literature.",
+    "Crime in literature.",
+    "Comic books, strips, etc.",
+    "Pornography."
+
+],
+"pages_numeric": 95,
+"score_holding_libs": 1,
+"sub_title": "a study in censorship",
+"id": "95F38F53-7CB1-BD4B-1F14-C2A0A42D4540",
+"collection": "hollis_catalog",
+"title_sort": "Love & death",
+"call_num": 
+[
+
+    "PN56.S5 L4 , 1963"
+
+],
+"score_checkouts_undergrad": 1,
+"height": "23 cm",
+"title_link_friendly": "love--death",
+"creator": 
+[
+
+    "Legman, G. (Gershon), 1917-"
+
+],
+"score_checkouts_grad": 1,
+"pub_date": "1963",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Literature (General) -- Theory. Philosophy. Esthetics -- Relation to and treatment of special elements, problems, and subjects -- Other special"
+
+],
+"pub_location": "New York",
+"pages": "95 p",
+"loc_call_num_sort_order": 
+[
+
+    8160911
+
+],
+"score_checkouts_fac": 1,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 1,
+"shelfrank": 1,
+"title": "Love & death",
+"language": "English",
+"id_inst": "000741296",
+"id_oclc": "ocm02103945",
+"height_numeric": 23,
+"format": "Book",
+"publisher": "Hacker Art Books",
+"pub_date_numeric": 1963,
+"source_record": 
+{
+
+    "988a": "20020608",
+    "245a": "Love & death :",
+    "035a": 
+
+[
+
+    "ocm02103945",
+    "ocm02788052"
+
+],
+"245b": "a study in censorship /",
+"100a": "Legman, G.",
+"245c": "G. Legman.",
+"9060": "OCLC",
+"100d": "1917-",
+"100q": "(Gershon),",
+"246a": "Love and death.",
+"650a": 
+
+        [
+            "Sex in literature.",
+            "Crime in literature.",
+            "Comic books, strips, etc.",
+            "Pornography."
+        ],
+        "040a": "CTL",
+        "040c": "CTL",
+        "300a": "95 p. ;",
+        "300c": "23 cm.",
+        "score_total": "3",
+        "260a": "New York :",
+        "260b": "Hacker Art Books,",
+        "260c": "1963, c1949."
+    }
+
+},
+"3": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Underground comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Cartoonists United States."
+
+],
+"pages_numeric": 1102,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "1606997874",
+    "9781606997871"
+
+],
+"id": "688D528A-C7D8-54B6-773C-4A946F1BCCF4",
+"collection": "hollis_catalog",
+"title_sort": "Complete Zap Comix",
+"call_num": 
+[
+
+    "NC1428.Z35 G7 2014"
+
+],
+"height": "33 cm",
+"title_link_friendly": "the-complete-zap-comix",
+"creator": 
+[
+
+    "Groth, Gary.",
+    "Crumb, R.",
+    "Wilson, S. Clay, 1941-",
+    "Moscoso, Victor.",
+    "Griffin, Rick.",
+    "Shelton, Gilbert, 1940-",
+    "Spain (Cartoonist).",
+    "Williams, Robert, 1943-",
+    "Mavrides, Paul.",
+    "Fantagraphics Books, publisher."
+
+],
+"pub_date": "2014",
+"loc_call_num_subject": 
+[
+
+    "Fine arts -- Drawing. Design. Illustration -- Caricature. Pictorial humor and satire -- History -- Special regions or countries -- United States"
+
+],
+"pub_location": "Seattle, WA",
+"pages": "6 volumes (1102 pages)",
+"loc_call_num_sort_order": 
+[
+
+    7018451
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "The Complete Zap Comix",
+"language": "English",
+"id_inst": "014118152",
+"id_oclc": "(PromptCat)999591376",
+"note": 
+[
+
+    "\"First printing: December 2014\"",
+    "Portfolio volumes contains giclée prints of all 17 covers of the complete run of Zap Comix. The portfolio is a limited edition of 2,750 copies.",
+    "Zap Comics written and illustrated by Robert Crumb, S. Clay Wilson, Victor Moscoso, Rick Griffin, Gilbert Shelton, Spain Rodriguez, Robert Williams, Paul Mavrides.",
+    "In cloth covered slipcase with mounted color illustration and eight artist signatures embossed in gold"
+
+],
+"height_numeric": 33,
+"format": "Book",
+"publisher": "Fantagraphics Books",
+"pub_date_numeric": 2014,
+"source_record": 
+{
+
+    "988a": "20140715",
+    "899a": "415_565387",
+    "710a": "Fantagraphics Books,",
+    "500a": 
+
+[
+
+    "\"First printing: December 2014\"",
+    "Portfolio volumes contains giclée prints of all 17 covers of the complete run of Zap Comix. The portfolio is a limited edition of 2,750 copies.",
+    "Zap Comics written and illustrated by Robert Crumb, S. Clay Wilson, Victor Moscoso, Rick Griffin, Gilbert Shelton, Spain Rodriguez, Robert Williams, Paul Mavrides.",
+    "In cloth covered slipcase with mounted color illustration and eight artist signatures embossed in gold."
+
+],
+"730a": "Zap Comix.",
+"015a": "GBB497311",
+"245a": "The Complete Zap Comix /",
+"710e": "publisher.",
+"035a": 
+[
+
+    "(PromptCat)99959137644",
+    "ocn870098546"
+
+],
+"245c": "publisher and executive editor: Gary Groth.",
+"9060": "OCLC",
+"043a": "n-us---",
+"505a": "Volume 1. Issues 0-4 -- volume 2. Issues 5-8 -- volume 3. Issues 9-12 -- volume 4. Issues 13-16 -- volume 5. The Zap story -- volume [6]. Portfolio [The Zap covers].",
+"016a": "016863415",
+"246a": "Zap Comix",
+"650a": 
+[
+
+    "Underground comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Cartoonists"
+
+],
+"020a": 
+[
+
+    "1606997874",
+    "9781606997871"
+
+],
+"040a": "YDXCP",
+"040c": "YDXCP",
+"040d": 
+[
+
+    "BTCTA",
+    "BDX",
+    "UKMGB",
+    "RSD",
+    "OCLCO"
+
+],
+"020q": "(set)",
+"toc": "Volume 1. Issues 0-4 -- volume 2. Issues 5-8 -- volume 3. Issues 9-12 -- volume 4. Issues 13-16 -- volume 5. The Zap story -- volume [6]. Portfolio [The Zap covers]",
+"0822": "23",
+"650z": "United States.",
+"700a": 
+[
+
+    "Groth, Gary.",
+    "Crumb, R.",
+    "Wilson, S. Clay,",
+    "Moscoso, Victor.",
+    "Griffin, Rick.",
+    "Shelton, Gilbert,",
+    "Spain",
+    "Williams, Robert,",
+    "Mavrides, Paul."
+
+],
+"700c": "(Cartoonist)",
+"700d": 
+
+        [
+            "1941-",
+            "1940-",
+            "1943-"
+        ],
+        "300a": "6 volumes (1102 pages) :",
+        "300b": "color illustrations (some folded), facsmilies, portraits ;",
+        "300c": "33 cm.",
+        "0152": "bnb",
+        "260a": "Seattle, WA :",
+        "260b": "Fantagraphics Books,",
+        "260c": "2014",
+        "082a": "741.569",
+        "090a": "NC1428.Z35",
+        "090b": "G7 2014",
+        "0162": "Uk"
+    }
+
+},
+"4": 
+{
+
+    "holding_libs": 
+
+[
+
+    "SCH",
+    "DIV",
+    "LAM",
+    "DDO",
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Women authors.",
+    "Literature, Medieval History and criticism.",
+    "European literature Women authors History and criticism.",
+    "Women History Middle Ages, 500-1500.",
+    "Women and literature History.",
+    "Women and literature Europe History To 1500.",
+    "Criticism, interpretation, etc.",
+    "History."
+
+],
+"pages_numeric": 338,
+"score_holding_libs": 5,
+"sub_title": "a critical study of texts from Perpetua (d. 203) to Marguerite Porete (d. 1310)",
+"id_isbn": 
+[
+
+    "0521275733",
+    "0521255805"
+
+],
+"id": "5A942C56-8168-697D-E547-8A98B5B5CC43",
+"collection": "hollis_catalog",
+"title_sort": "Women writers of the Middle Ages",
+"call_num": 
+[
+
+    "PN471 .D76 1984",
+    "PN671 .D7 1984"
+
+],
+"score_checkouts_undergrad": 13,
+"height": "24 cm",
+"title_link_friendly": "women-writers-of-the-middle-ages",
+"creator": 
+[
+
+    "Dronke, Peter."
+
+],
+"score_checkouts_grad": 18,
+"pub_date": "1984",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Literature (General) -- Literary history -- Biography -- Women authors -- English works",
+    "Language and literature -- Literature (General) -- Literary history -- By period -- Medieval (to 1500) -- General works -- 1801- -- American and English"
+
+],
+"pub_location": "Cambridge [Cambridgeshire",
+"score_reserves": 1,
+"pages": "xi, 338 p",
+"id_lccn": "83007456",
+"loc_call_num_sort_order": 
+[
+
+    8178221,
+    8182453
+
+],
+"score_checkouts_fac": 11,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 4,
+"shelfrank": 23,
+"language": "English",
+"title": "Women writers of the Middle Ages",
+"id_inst": "000240198",
+"id_oclc": "ocm12464784",
+"note": 
+[
+
+    "Includes indexes",
+    "Bibliography: p. 320-333",
+    "This book is the first to give a detailed picture of the contributions made by women writers to western literature from the third century to the thirteenth. Many of the texts Peter Dronke presents and interprets have hitherto remained unknown, or virtually inaccessible; some have never been edited or translated before. The emphasis throughout is on personal testimonies, and on texts that have notable literary or intellectual interest. Thus the book affords many new insights into medieval literature, not only into the writings of renowned women such as Hrotsvitha or Heloise, but also into those of a number of neglected writers who are exceptional in their gifts and individuality"
+
+],
+"height_numeric": 24,
+"format": "Book",
+"publisher": "Cambridge University Press",
+"pub_date_numeric": 1984,
+"source_record": 
+{
+
+    "988a": "20020608",
+    "504a": "Bibliography: p. 320-333.",
+    "500a": "Includes indexes.",
+    "015a": "GB84-2092",
+    "520a": "This book is the first to give a detailed picture of the contributions made by women writers to western literature from the third century to the thirteenth. Many of the texts Peter Dronke presents and interprets have hitherto remained unknown, or virtually inaccessible; some have never been edited or translated before. The emphasis throughout is on personal testimonies, and on texts that have notable literary or intellectual interest. Thus the book affords many new insights into medieval literature, not only into the writings of renowned women such as Hrotsvitha or Heloise, but also into those of a number of neglected writers who are exceptional in their gifts and individuality.",
+    "245a": "Women writers of the Middle Ages :",
+    "245b": "a critical study of texts from Perpetua (d. 203) to Marguerite Porete (d. 1310) /",
+    "035a": 
+
+[
+
+    "ocm12464784",
+    "ocm17521142",
+    "ocm12464784",
+    "ocm10416500"
+
+],
+"245c": "Peter Dronke.",
+"100a": "Dronke, Peter.",
+"9060": "DLC",
+"043a": "e------",
+"6552": 
+[
+
+    "fast",
+    "fast"
+
+],
+"035z": 
+[
+
+    "ocm10416500",
+    "ocm13229934"
+
+],
+"505g": "Texts:",
+"650a": 
+[
+
+    "Women authors.",
+    "Literature, Medieval",
+    "European literature",
+    "Women",
+    "Women and literature",
+    "Women and literature"
+
+],
+"020a": 
+[
+
+    "0521275733 (pbk) :",
+    "0521255805 (cased) :"
+
+],
+"020c": 
+[
+
+    "£10.95",
+    "£27.50"
+
+],
+"040a": "DLC",
+"040c": "DLC",
+"040d": 
+[
+
+    "EIS",
+    "IDI"
+
+],
+"505t": 
+[
+
+    "From Perpetua to the eighth century --",
+    "Dhuoda --",
+    "Hrotsvitha --",
+    "Personal poetry by women: the eleventh and twelfth centuries --",
+    "Heloise, Excursus: Did Abelard write Heloise's third letter? --",
+    "Hildegard of Bingen --",
+    "From Hildegard to Marguerite Porete --",
+    "Hildegard of Bingen ;",
+    "Women's testimonies from the register of Jacques Fournier ;",
+    "Marguerite Porete."
+
+],
+"650x": 
+[
+
+    "History and criticism.",
+    "Women authors",
+    "History and criticism.",
+    "History",
+    "History.",
+    "History"
+
+],
+"650y": 
+[
+
+    "Middle Ages, 500-1500.",
+    "To 1500."
+
+],
+"toc": "From Perpetua to the eighth century -- Dhuoda -- Hrotsvitha -- Personal poetry by women: the eleventh and twelfth centuries -- Heloise, Excursus: Did Abelard write Heloise's third letter? -- Hildegard of Bingen -- From Hildegard to Marguerite Porete -- Texts: Hildegard of Bingen ; Women's testimonies from the register of Jacques Fournier ; Marguerite Porete",
+"650z": "Europe",
+"546a": "Includes Latin texts.",
+"655a": 
+[
+
+    "Criticism, interpretation, etc.",
+    "History."
+
+],
+"300a": "xi, 338 p. ;",
+"300c": "24 cm.",
+"041a": "englat",
+"score_total": "29",
+"010a": "   83007456 ",
+"260a": 
+
+        [
+            "Cambridge [Cambridgeshire] ;",
+            "New York :"
+        ],
+        "260b": "Cambridge University Press,",
+        "050a": "PN471",
+        "260c": "1984.",
+        "050b": ".D76 1984"
+    }
+
+},
+"5": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Comic books, strips, etc. History and criticism.",
+    "Heroes."
+
+],
+"pages_numeric": 238,
+"score_holding_libs": 1,
+"sub_title": "language, culture, and the concept of the superhero in comic books",
+"id_isbn": 
+[
+
+    "0815333447"
+
+],
+"id": "653AEAD4-D76E-6504-BE9D-120833502EE3",
+"collection": "hollis_catalog",
+"title_sort": "Reading comics",
+"call_num": 
+[
+
+    "PN6714 .B66 2000"
+
+],
+"score_checkouts_undergrad": 16,
+"height": "23 cm",
+"title_link_friendly": "reading-comics",
+"creator": 
+[
+
+    "Bongco, Mila."
+
+],
+"score_checkouts_grad": 3,
+"pub_date": "2000",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- Special topics -- Other special (not A-Z)"
+
+],
+"pub_location": "New York",
+"pages": "xvi, 238 p",
+"id_lccn": "99046175",
+"loc_call_num_sort_order": 
+[
+
+    8403597
+
+],
+"score_checkouts_fac": 1,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 6,
+"shelfrank": 11,
+"title": "Reading comics",
+"language": "English",
+"id_inst": "008510594",
+"id_oclc": "ocm42429303",
+"note": 
+[
+
+    "Includes bibliographical references and index"
+
+],
+"height_numeric": 23,
+"format": "Book",
+"publisher": "Garland Pub.",
+"pub_date_numeric": 2000,
+"source_record": 
+{
+
+    "988a": "20020608",
+    "504a": "Includes bibliographical references and index.",
+    "245a": "Reading comics :",
+    "035a": "ocm42429303",
+    "245b": "language, culture, and the concept of the superhero in comic books /",
+    "245c": "Mila Bongco.",
+    "100a": "Bongco, Mila.",
+    "9060": "DLC",
+    "650a": 
+
+        [
+            "Comic books, strips, etc.",
+            "Heroes."
+        ],
+        "440a": "Garland studies in American popular history and culture",
+        "020a": "0815333447 (alk. paper)",
+        "040a": "DLC",
+        "040c": "DLC",
+        "040d": "DLC",
+        "650x": "History and criticism.",
+        "0822": "21",
+        "300a": "xvi, 238 p. :",
+        "300b": "ill. ;",
+        "300c": "23 cm.",
+        "score_total": "15",
+        "010a": "   99046175 ",
+        "260a": "New York :",
+        "260b": "Garland Pub.,",
+        "050a": "PN6714",
+        "260c": "2000.",
+        "050b": ".B66 2000",
+        "082a": "741.5/09"
+    }
+
+},
+"6": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Motion picture industry Comic books, strips, etc.",
+    "Motion pictures Comic books, strips, etc.",
+    "Screenwriters Comic books, strips, etc.",
+    "Alcoholics Comic books, strips, etc.",
+    "Comic books, strips, etc. United States.",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"score_holding_libs": 1,
+"sub_title": "act one",
+"id_isbn": 
+[
+
+    "9781632151711",
+    "1632151715"
+
+],
+"id": "98113CE2-8980-8BC0-EA05-BA113E36ED03",
+"collection": "hollis_catalog",
+"call_num": 
+[
+
+    "PN6727.B77 F33 2015"
+
+],
+"title_sort": "fade out",
+"height": "26 cm",
+"title_link_friendly": "the-fade-out",
+"creator": 
+[
+
+    "Brubaker, Ed.",
+    "Phillips, Sean, illustrator.",
+    "Breitweiser, Bettie, colorist."
+
+],
+"pub_date": "2015",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pages": "1 volume (unpaged)",
+"loc_call_num_sort_order": 
+[
+
+    8404175
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "The fade out",
+"language": "English",
+"id_inst": "014330333",
+"id_oclc": "ocn890177784",
+"note": 
+[
+
+    "Contains material originally published in magazine form as The Fade Out #1-4"
+
+],
+"height_numeric": 26,
+"format": "Book",
+"pub_date_numeric": 2015,
+"source_record": 
+{
+
+    "988a": "20150323",
+    "899a": "415_565185",
+    "338a": "volume",
+    "338b": "nc",
+    "500a": "Contains material originally published in magazine form as The Fade Out #1-4.",
+    "015a": "GBB4D0924",
+    "245a": "The fade out :",
+    "035a": "ocn890177784",
+    "245b": "act one /",
+    "100a": "Brubaker, Ed,",
+    "245c": "Ed Brubaker ; Sean Philips ; colors by Elizabeth Breitweiser",
+    "9060": "OCLC",
+    "043a": "n-us---",
+    "100e": "author.",
+    "3362": 
+
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"016a": "016947349",
+"650a": 
+[
+
+    "Motion picture industry",
+    "Motion pictures",
+    "Screenwriters",
+    "Alcoholics",
+    "Comic books, strips, etc."
+
+],
+"020a": 
+[
+
+    "9781632151711",
+    "1632151715"
+
+],
+"040a": "BTCTA",
+"040b": "eng",
+"040c": "BTCTA",
+"040d": 
+[
+
+    "YDXCP",
+    "UKMGB",
+    "JBU",
+    "WIM"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"020q": 
+[
+
+    "(paperback)",
+    "(paperback)"
+
+],
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"0822": "23",
+"650z": "United States.",
+"700a": 
+[
+
+    "Phillips, Sean,",
+    "Breitweiser, Bettie,"
+
+],
+"655a": 
+[
+
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"336a": 
+[
+
+    "text",
+    "still image"
+
+],
+"049a": "HLSS",
+"336b": 
+[
+
+    "txt",
+    "sti"
+
+],
+"700e": 
+
+        [
+            "illustrator.",
+            "colorist."
+        ],
+        "300a": "1 volume (unpaged) :",
+        "300b": "chiefly color illustrations ;",
+        "300c": "26 cm.",
+        "3382": "rdacarrier",
+        "0152": "bnb",
+        "337a": "unmediated",
+        "337b": "n",
+        "264a": "Berkeley, CA :",
+        "264b": "Image Comics,",
+        "264c": "2015.",
+        "050a": "PN6727.B77",
+        "050b": "F33 2015",
+        "082a": "741.5973",
+        "0162": "Uk"
+    }
+
+},
+"7": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Superheroes Comic books, strips, etc.",
+    "Horror comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9781607067733",
+    "1607067730"
+
+],
+"id": "DDA5F824-2D5B-F308-D9FC-E6D5DF20812B",
+"collection": "hollis_catalog",
+"call_num": 
+[
+
+    "PN6727.J67 L55 2013"
+
+],
+"title_sort": "legend of Luther Strode",
+"height": "26 cm",
+"title_link_friendly": "the-legend-of-luther-strode",
+"creator": 
+[
+
+    "Jordan, Justin.",
+    "Moore, Tradd, artist."
+
+],
+"pub_date": "2013",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pub_location": "Berkeley, California",
+"pages": "1 v. (unpaged)",
+"loc_call_num_sort_order": 
+[
+
+    8404618
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "The legend of Luther Strode",
+"language": "English",
+"id_inst": "014239433",
+"id_oclc": "ocn861319666",
+"note": 
+[
+
+    "\"2\"--Spine.",
+    "\"First published in single-magazine format as The Legends of Luther Strode #1-6\"--T.p. verso. Spine number on book may refer to original publication",
+    "For five years, Luther Strode has been a legend terrifying criminals. But now the criminals have struck back, and the hunt for Luther Strode is on! Can Luther survive old enemies working with new friends? Collects The Legend of Luther Strode #1-6. -- Publisher's website"
+
+],
+"height_numeric": 26,
+"format": "Book",
+"publisher": "Image Comics",
+"pub_date_numeric": 2013,
+"source_record": 
+{
+
+    "988a": "20141201",
+    "899a": "415_565185",
+    "338a": "volume",
+    "500a": 
+
+[
+
+    "\"2\"--Spine.",
+    "\"First published in single-magazine format as The Legends of Luther Strode #1-6\"--T.p. verso. Spine number on book may refer to original publication."
+
+],
+"015a": "GBB393101",
+"520a": "For five years, Luther Strode has been a legend terrifying criminals. But now the criminals have struck back, and the hunt for Luther Strode is on! Can Luther survive old enemies working with new friends? Collects The Legend of Luther Strode #1-6. -- Publisher's website.",
+"245a": "The legend of Luther Strode /",
+"035a": "ocn861319666",
+"100a": "Jordan, Justin,",
+"245c": "written by Justin Jordan ; art by Tradd Moore.",
+"9060": "OCLC",
+"100e": "author.",
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"016a": "016516077",
+"521a": "Rated M / Mature.",
+"650a": "Superheroes",
+"020a": 
+[
+
+    "9781607067733 (pbk.)",
+    "1607067730 (pbk.)"
+
+],
+"040a": "UKMGB",
+"040b": "eng",
+"040c": "UKMGB",
+"040d": 
+[
+
+    "TXG",
+    "ZHB",
+    "BTCTA",
+    "BDX",
+    "YDXCP"
+
+],
+"3372": "rdamedia",
+"650v": "Comic books, strips, etc.",
+"0822": "23",
+"700a": "Moore, Tradd,",
+"655a": 
+[
+
+    "Horror comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"336a": 
+
+        [
+            "text",
+            "still image"
+        ],
+        "049a": "HLSS",
+        "700e": "artist.",
+        "300a": "1 v. (unpaged) :",
+        "300b": "chiefly col. ill. ;",
+        "300c": "26 cm.",
+        "3382": "rdacarrier",
+        "0152": "bnb",
+        "337a": "unmediated",
+        "260a": "Berkeley, California :",
+        "260b": "Image Comics,",
+        "082a": "741.5",
+        "260c": "c2013.",
+        "0162": "Uk"
+    }
+
+},
+"8": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Interpersonal relations Comic books, strips, etc.",
+    "Loss (Psychology) Comic books, strips, etc.",
+    "Graphic novels Japan.",
+    "Japan Comic books, strips, etc."
+
+],
+"pages_numeric": 159,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9781419715952",
+    "9781419715969",
+    "1419715968"
+
+],
+"id": "93B5A36B-E83E-6D58-A12C-98C05ACF274D",
+"collection": "hollis_catalog",
+"title_sort": "Just so happens",
+"call_num": 
+[
+
+    "PN6790.J33 O24 2014"
+
+],
+"height": "24 cm",
+"title_link_friendly": "just-so-happens",
+"creator": 
+[
+
+    "Obata, Fumio."
+
+],
+"pub_date": "2015",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country"
+
+],
+"pub_location": "New York, NY",
+"pages": "159 p",
+"id_lccn": "2014948131",
+"loc_call_num_sort_order": 
+[
+
+    8409657
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Just so happens",
+"language": "English",
+"id_inst": "014301912",
+"id_oclc": "(PromptCat)999617842",
+"height_numeric": 24,
+"format": "Book",
+"publisher": "Abrams ComicArts",
+"pub_date_numeric": 2015,
+"source_record": 
+{
+
+    "988a": "20150214",
+    "899a": "415_565185",
+    "245a": "Just so happens /",
+    "035a": 
+
+[
+
+    "(PromptCat)99961784279",
+    "ocn890623476"
+
+],
+"100a": "Obata, Fumio,",
+"245c": "Fumio Obata.",
+"9060": "OCLC",
+"100e": 
+[
+
+    "author,",
+    "illustrator."
+
+],
+"3362": "rdacontent",
+"650a": 
+[
+
+    "Interpersonal relations",
+    "Loss (Psychology)",
+    "Graphic novels"
+
+],
+"020a": 
+[
+
+    "9781419715952",
+    "9781419715969",
+    "1419715968",
+    "141971595X"
+
+],
+"040a": "BTCTA",
+"040b": "eng",
+"040c": "BTCTA",
+"040d": 
+[
+
+    "BDX",
+    "YDXCP",
+    "IHH",
+    "OEM",
+    "SO$"
+
+],
+"3372": "rdamedia",
+"650v": 
+
+        [
+            "Comic books, strips, etc.",
+            "Comic books, strips, etc."
+        ],
+        "650z": "Japan.",
+        "336a": "text",
+        "336b": "txt",
+        "300a": "159 p. :",
+        "651a": "Japan",
+        "300b": "chiefly color illustrations ;",
+        "300c": "24 cm.",
+        "651v": "Comic books, strips, etc.",
+        "337a": "unmediated",
+        "337b": "n",
+        "010a": "  2014948131",
+        "260a": "New York, NY :",
+        "050a": "PN6790.J33",
+        "260b": "Abrams ComicArts,",
+        "050b": "O24 2014",
+        "260c": "2015."
+    }
+
+},
+"10": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Children Fiction Comic books, strips, etc.",
+    "Dystopias Fiction Comic books, strips, etc.",
+    "Good and evil Fiction Comic books, strips, etc.",
+    "Science fiction comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"pages_numeric": 302,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9781596434219"
+
+],
+"id": "6ED90C61-D54B-A05A-2EF2-502C6E045F89",
+"collection": "hollis_catalog",
+"call_num": 
+[
+
+    "PN6727.D35 W74 2014"
+
+],
+"title_sort": "Wrenchies",
+"height": "22 cm",
+"title_link_friendly": "the-wrenchies",
+"creator": 
+[
+
+    "Dalrymple, Farel."
+
+],
+"pub_date": "2014",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pages": "302 pages",
+"loc_call_num_sort_order": 
+[
+
+    8404313
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "The Wrenchies",
+"language": "English",
+"id_inst": "014172002",
+"id_oclc": "(PromptCat)999599574",
+"note": 
+[
+
+    "\"Sherwood and Orson should never have gone into that cave. That day, a door was opened from our world into a dark and profane realm...and earth's destiny was changed forever. In this demented future, whatever life remains on earth is oppressed by the evil shadowsmen. Only a gang of ruthless and powerful children called the Wrenchies can hope to stand against them. When Hollis, a lonely boy from our world, is magically given access to the future world of the Wrenchies, he finally finds a place he belongs. But it is not an easy world to live in, and Hollis's quest is bigger than he ever dreamed of.\"--From publisher's web site"
+
+],
+"height_numeric": 22,
+"format": "Book",
+"pub_date_numeric": 2014,
+"source_record": 
+{
+
+    "988a": "20140925",
+    "899a": "415_565185",
+    "338a": "volume",
+    "338b": "nc",
+    "520a": "\"Sherwood and Orson should never have gone into that cave. That day, a door was opened from our world into a dark and profane realm...and earth's destiny was changed forever. In this demented future, whatever life remains on earth is oppressed by the evil shadowsmen. Only a gang of ruthless and powerful children called the Wrenchies can hope to stand against them. When Hollis, a lonely boy from our world, is magically given access to the future world of the Wrenchies, he finally finds a place he belongs. But it is not an easy world to live in, and Hollis's quest is bigger than he ever dreamed of.\"--From publisher's web site.",
+    "245a": "The Wrenchies /",
+    "035a": 
+
+[
+
+    "(PromptCat)99959957498",
+    "ocn869263759"
+
+],
+"100a": "Dalrymple, Farel,",
+"245c": "Farel Dalrymple.",
+"9060": "OCLC",
+"100e": 
+[
+
+    "author,",
+    "artist."
+
+],
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"650a": 
+[
+
+    "Children",
+    "Dystopias",
+    "Good and evil"
+
+],
+"020a": 
+[
+
+    "9781596434219",
+    "159643421X"
+
+],
+"250a": "First edition.",
+"040a": "BTCTA",
+"040b": "eng",
+"040c": "BTCTA",
+"040d": 
+[
+
+    "YDXCP",
+    "BDX",
+    "UOK",
+    "TXA",
+    "UAB"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"650v": 
+[
+
+    "Fiction",
+    "Comic books, strips, etc.",
+    "Fiction",
+    "Comic books, strips, etc.",
+    "Fiction",
+    "Comic books, strips, etc."
+
+],
+"655a": 
+[
+
+    "Science fiction comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"336a": 
+[
+
+    "text",
+    "still image"
+
+],
+"336b": 
+
+        [
+            "txt",
+            "sti"
+        ],
+        "300a": "302 pages :",
+        "300b": "chiefly color illustrations ;",
+        "300c": "22 cm",
+        "3382": "rdacarrier",
+        "337a": "unmediated",
+        "337b": "n",
+        "264a": "New York :",
+        "264b": "First Second,",
+        "264c": "2014.",
+        "050a": "PN6727.D35",
+        "050b": "W74 2014"
+    }
+
+},
+"11": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM",
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Comic books, strips, etc. History and criticism.",
+    "Comic strip characters History and criticism.",
+    "Heroes Comic books, strips, etc. History and criticism.",
+    "Heroes History and criticism.",
+    "Criticism, interpretation, etc."
+
+],
+"pages_numeric": 290,
+"score_holding_libs": 2,
+"sub_title": "the secret origin of a genre",
+"id_isbn": 
+[
+
+    "9781932265187"
+
+],
+"id": "1246B777-FE49-6EED-A83D-F4D6166C23D7",
+"collection": "hollis_catalog",
+"title_sort": "Superhero",
+"call_num": 
+[
+
+    "PN56.5.H45 C66 2006",
+    "PN6714 .C667 2006"
+
+],
+"score_checkouts_undergrad": 12,
+"height": "23 cm",
+"title_link_friendly": "superhero",
+"creator": 
+[
+
+    "Coogan, Peter.",
+    "O'Neil, Dennis, 1939-"
+
+],
+"score_checkouts_grad": 1,
+"pub_date": "2006",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Literature (General) -- Theory. Philosophy. Esthetics -- Relation to and treatment of special elements, problems, and subjects -- Other special",
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- Special topics -- Other special (not A-Z)"
+
+],
+"pub_location": "Austin, TX",
+"score_reserves": 3,
+"pages": "vii, 290 p",
+"loc_call_num_sort_order": 
+[
+
+    8163220,
+    8403618
+
+],
+"score_checkouts_fac": 1,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 2,
+"shelfrank": 8,
+"title": "Superhero",
+"language": "English",
+"id_inst": "010123260",
+"id_oclc": "ocm70679120",
+"note": 
+[
+
+    "Includes bibliographical references (p. 253-276) and index",
+    "\"An exhaustive and entertaining study of the superhero genre, this volume traces the roots of the superhero in mythology, science fiction, and the pulps, and follows the superhero's development to its current renaissance in film, literature, and graphic novels.\"--Publisher's website"
+
+],
+"height_numeric": 23,
+"format": "Book",
+"publisher": "MonkeyBrain Books",
+"pub_date_numeric": 2006,
+"source_record": 
+{
+
+    "988a": "20061006",
+    "504a": "Includes bibliographical references (p. 253-276) and index.",
+    "520a": "\"An exhaustive and entertaining study of the superhero genre, this volume traces the roots of the superhero in mythology, science fiction, and the pulps, and follows the superhero's development to its current renaissance in film, literature, and graphic novels.\"--Publisher's website.",
+    "245a": "Superhero :",
+    "245b": "the secret origin of a genre /",
+    "035a": "ocm70679120",
+    "245c": "by Peter Coogan ; introduction by Denny O'Neil.",
+    "100a": "Coogan, Peter.",
+    "9060": "OCLC",
+    "6552": "fast",
+    "505a": "Introduction -- The superhero renaissance -- The superhero genre -- The definition of the superhero -- The supervillain -- The roots in myth, epic, and legend -- The Antediluvian Age -- Comics predecessors -- The first superhero -- The evolution of the superhero -- The superhero as metaphor -- The ideology of the superhero.",
+    "650a": 
+
+[
+
+    "Comic books, strips, etc.",
+    "Comic strip characters",
+    "Heroes",
+    "Heroes"
+
+],
+"020a": 
+[
+
+    "193226518X :",
+    "9781932265187"
+
+],
+"020c": "$15.95",
+"040a": "OCO",
+"040c": "OCO",
+"040d": 
+[
+
+    "OCO",
+    "BAKER",
+    "MUB",
+    "YDXCP",
+    "OCLCQ"
+
+],
+"650v": "Comic books, strips, etc.",
+"650x": 
+
+        [
+            "History and criticism.",
+            "History and criticism.",
+            "History and criticism.",
+            "History and criticism."
+        ],
+        "toc": "Introduction -- The superhero renaissance -- The superhero genre -- The definition of the superhero -- The supervillain -- The roots in myth, epic, and legend -- The Antediluvian Age -- Comics predecessors -- The first superhero -- The evolution of the superhero -- The superhero as metaphor -- The ideology of the superhero",
+        "700a": "O'Neil, Dennis,",
+        "655a": "Criticism, interpretation, etc.",
+        "700d": "1939-",
+        "300a": "vii, 290 p. :",
+        "300b": "ill. ;",
+        "300c": "23 cm.",
+        "score_total": "12",
+        "260a": "Austin, TX :",
+        "260b": "MonkeyBrain Books,",
+        "050a": "PN56.5.H45",
+        "260c": "c2006.",
+        "050b": "C66 2006",
+        "090a": "PN6714",
+        "090b": ".C667 2006"
+    }
+
+},
+"12": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Comic books, strips, etc. History and criticism.",
+    "Villains in literature.",
+    "Science."
+
+],
+"pages_numeric": 212,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "0471482056"
+
+],
+"id": "5A99A3C0-B633-C11B-CC07-1F96F90E0E6C",
+"collection": "hollis_catalog",
+"title_sort": "science of supervillains",
+"call_num": 
+[
+
+    "PN6714 .G75 2005"
+
+],
+"score_checkouts_undergrad": 8,
+"height": "25 cm",
+"title_link_friendly": "the-science-of-supervillains",
+"creator": 
+[
+
+    "Gresh, Lois H.",
+    "Weinberg, Robert E."
+
+],
+"score_checkouts_grad": 1,
+"pub_date": "2005",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- Special topics -- Other special (not A-Z)"
+
+],
+"pub_location": "Hoboken, N.J.",
+"pages": "xi, 212 p",
+"id_lccn": "2004003018",
+"loc_call_num_sort_order": 
+[
+
+    8403650
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 1,
+"shelfrank": 3,
+"title": "The science of supervillains",
+"language": "English",
+"id_inst": "009515166",
+"id_oclc": "ocm54407949",
+"note": 
+[
+
+    "Includes bibliographical references (p. 185-203) and index"
+
+],
+"height_numeric": 25,
+"format": "Book",
+"publisher": "J. Wiley",
+"pub_date_numeric": 2005,
+"source_record": 
+{
+
+    "988a": "20041209",
+    "504a": "Includes bibliographical references (p. 185-203) and index.",
+    "015a": "GBA463528",
+    "245a": "The science of supervillains /",
+    "035a": "ocm54407949",
+    "245c": "Lois H. Gresh, Robert Weinberg.",
+    "100a": "Gresh, Lois H.",
+    "9060": "DLC",
+    "016a": "012981431",
+    "650a": 
+
+[
+
+    "Comic books, strips, etc.",
+    "Villains in literature.",
+    "Science."
+
+],
+"020a": "0471482056 (cloth)",
+"040a": "DLC",
+"040c": "DLC",
+"040d": 
+
+        [
+            "YDX",
+            "UKM",
+            "OCO"
+        ],
+        "650x": "History and criticism.",
+        "0822": "22",
+        "700a": "Weinberg, Robert E.",
+        "300a": "xi, 212 p. ;",
+        "300c": "25 cm.",
+        "score_total": "6",
+        "0152": "bnb",
+        "010a": "2004003018  ",
+        "042a": "pcc",
+        "260a": "Hoboken, N.J. :",
+        "260b": "J. Wiley,",
+        "050a": "PN6714",
+        "260c": "c2005.",
+        "050b": ".G75 2005",
+        "082a": "741.5/09",
+        "0162": "Uk"
+    }
+
+},
+"13": 
+{
+
+    "holding_libs": 
+
+[
+
+    "HYL"
+
+],
+"lcsh": 
+[
+
+    "Short stories, Korean Comic books, strips, etc.",
+    "Graphic novels Korea (South)."
+
+],
+"pages_numeric": 203,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9788952712776",
+    "8952712773",
+    "8952712757",
+    "97889527127"
+
+],
+"id": "D7C8BAEF-BF0E-E4F7-C86B-C05A7469C413",
+"collection": "hollis_catalog",
+"title_sort": "Manhwa ro ponŭn Hanʼguk tanpʻyŏn munhak sŏnjip",
+"call_num": 
+[
+
+    "PN6790.K64 M38 2001 .2"
+
+],
+"height": "23 cm",
+"title_link_friendly": "manhwa-ro-ponn-hanguk-tanpyn-munhak",
+"creator": 
+[
+
+    "Kim, Tong-hwa, 1950-",
+    ".",
+    ".",
+    ".",
+    "."
+
+],
+"pub_date": "2001",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country"
+
+],
+"pub_location": "Sŏul-si",
+"pages": "203 p",
+"loc_call_num_sort_order": 
+[
+
+    8410727
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Manhwa ro ponŭn Hanʼguk tanpʻyŏn munhak sŏnjip",
+"language": "Korean (use for related lang. and dial.)",
+"id_inst": "011881868",
+"id_oclc": "ocn312236577",
+"height_numeric": 23,
+"format": "Book",
+"publisher": "Sigongsa",
+"pub_date_numeric": 2001,
+"source_record": 
+{
+
+    "8806": 
+
+[
+
+    "100-01",
+    "245-02",
+    "250-03",
+    "260-04",
+    "505-05",
+    "653-00",
+    "700-06",
+    "700-07",
+    "700-08",
+    "700-09",
+    "700-10"
+
+],
+"988a": "20090304",
+"2506": "880-03",
+"245a": "Manhwa ro ponŭn Hanʼguk tanpʻyŏn munhak sŏnjip.",
+"035a": "ocn312236577",
+"100a": "Kim, Tong-hwa,",
+"245c": "Kim Tong-hwa.",
+"9060": "MH",
+"043a": "a-ko---",
+"100d": "1950-",
+"245n": "2 /",
+"7006": 
+[
+
+    "880-06",
+    "880-07",
+    "880-08",
+    "880-09",
+    "880-10"
+
+],
+"505a": "Nalgae / Yi Sang -- Hanʼgugin / Sŏnu Hwi -- Yŏngma / Kim Tong-li -- Pŏngŏri Samnyongi / Na To-hyang.",
+"650a": 
+[
+
+    "Short stories, Korean",
+    "Graphic novels"
+
+],
+"880a": 
+[
+
+    "김동화,",
+    "만화로보는한국단편문학선집.",
+    "초판.",
+    "서울시 :",
+    "날개 / 이상 -- 한국인 / 선우휘 -- 붉은산 / 김동인 -- 역마 / 김동리 -- 벙어리삼룡이 / 나도향.",
+    "만화",
+    "이상,",
+    "선우휘,",
+    "김동인,",
+    "김동리,",
+    "나도향,"
+
+],
+"880b": "시공사,",
+"880c": 
+[
+
+    "김동화.",
+    "2001."
+
+],
+"020a": 
+[
+
+    "9788952712776 (v.2)",
+    "8952712773 (v.2)",
+    "8952712757 (set)",
+    "9788952712752 (set)"
+
+],
+"880d": 
+[
+
+    "1950-",
+    "1910-1937.",
+    "1922-1986.",
+    "1900-1951.",
+    "1913-1995.",
+    "1902-1927."
+
+],
+"250a": "Chʻopʻan.",
+"040a": "HMY",
+"040c": "HMY",
+"880n": "2 /",
+"880t": 
+[
+
+    "날개.",
+    "한국인.",
+    "붉은산.",
+    "역마.",
+    "벙어리삼룡이."
+
+],
+"650v": "Comic books, strips, etc.",
+"toc": "Nalgae / Yi Sang -- Hanʼgugin / Sŏnu Hwi -- Yŏngma / Kim Tong-li -- Pŏngŏri Samnyongi / Na To-hyang",
+"650z": "Korea (South)",
+"700a": 
+[
+
+    "Yi, Sang,",
+    "Sŏnu, Hwi,",
+    "Kim, Tong-in,",
+    "Kim, Tongni,",
+    "Na, To-hyang,"
+
+],
+"2606": "880-04",
+"700d": 
+[
+
+    "1910-1937.",
+    "1922-1986.",
+    "1900-1951.",
+    "1913-1995.",
+    "1902-1927."
+
+],
+"300a": "203 p. :",
+"300b": "ill. ;",
+"300c": "23 cm.",
+"700t": 
+
+        [
+            "Nalgae.",
+            "Hanʼgugin.",
+            "Pulgŭn san.",
+            "Yŏngma.",
+            "Pŏngŏri Samnyongi."
+        ],
+        "2456": "880-02",
+        "1006": "880-01",
+        "260a": "Sŏul-si :",
+        "260b": "Sigongsa,",
+        "260c": "2001.",
+        "090a": "PN6790.K64",
+        "090b": "M38 2001 vol.2",
+        "5056": "880-05"
+    }
+
+},
+"14": 
+{
+
+    "holding_libs": 
+
+[
+
+    "HYL"
+
+],
+"lcsh": 
+[
+
+    "Short stories, Korean Comic books, strips, etc.",
+    "Graphic novels.",
+    "만화."
+
+],
+"pages_numeric": 256,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9788934958598",
+    "8934958596"
+
+],
+"id": "624FF128-0FA9-1841-3A57-68A5868A8864",
+"collection": "hollis_catalog",
+"title_sort": "Sarang sonnim kwa ŏmŏni",
+"call_num": 
+[
+
+    "PN6790.K64 M35955 2012 .3"
+
+],
+"height": "26 cm",
+"title_link_friendly": "sarang-sonnim-kwa-mni",
+"creator": 
+[
+
+    "O, Se-yŏng, 1955-"
+
+],
+"pub_date": "2012",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country"
+
+],
+"ut_id": "0dae7cf8a9a4da55dfbe204e2c455ceb",
+"pages": "256 pages",
+"loc_call_num_sort_order": 
+[
+
+    8410714
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Sarang sonnim kwa ŏmŏni",
+"language": "Korean (use for related lang. and dial.)",
+"id_inst": "013860529",
+"id_oclc": "ocn824703388",
+"ut_count": 3,
+"height_numeric": 26,
+"format": "Book",
+"pub_date_numeric": 2012,
+"source_record": 
+{
+
+    "830v": "03.",
+    "8806": 
+
+[
+
+    "100-01",
+    "245-02",
+    "250-03",
+    "264-04",
+    "490-05",
+    "505-06",
+    "700-07",
+    "830-08"
+
+],
+"988a": "20131203",
+"338a": "volume",
+"2506": "880-03",
+"338b": "nc",
+"490v": "03",
+"653a": "만화",
+"245a": "Sarang sonnim kwa ŏmŏni /",
+"035a": "ocn824703388",
+"100a": "O, Se-yŏng,",
+"245c": "O Se-yŏng kŭrim.",
+"9060": "OCLC",
+"100d": "1955-",
+"100e": "artist.",
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"7006": "880-07",
+"505a": "Sarang sonnim kwa ŏmŏni / wŏnjak Chu Yo-sŏp -- Nongu / wŏnjak Yi Kŭn-yŏng -- Pom kwa sinjangno / wŏnjak Ch'oe Myŏng-hŭi -- Owŏl ŭi hunp'ung / wŏnjak Pak T'ae-wŏn -- Maeng Sunsa / wŏnjak Ch'ae Man-sik -- Hŭin chongi suyŏm / wŏnjak Ha Kŭn-ch'an.",
+"650a": 
+[
+
+    "Short stories, Korean",
+    "Graphic novels."
+
+],
+"880a": 
+[
+
+    "오세영,",
+    "사랑손님과어머니 /",
+    "1판.",
+    "경기도파주시 :",
+    "만화한국대표문학선 ;",
+    "사랑손님과어머니 / 원작주요섭 -- 농우 / 원작이근영 -- 봄과신작로 / 원작최명희 -- 오월의훈풍 / 원작박태원 -- 맹순사 / 원작채만식 -- 흰종이수염 / 원작하근찬.",
+    "주요섭,",
+    "만화한국대표문학선 ;"
+
+],
+"880b": "주니어김영사,",
+"880c": 
+[
+
+    "오세영그림.",
+    "2012."
+
+],
+"020a": 
+[
+
+    "9788934958598",
+    "8934958596"
+
+],
+"880d": 
+[
+
+    "1955-",
+    "1902-1972."
+
+],
+"250a": "1-p'an.",
+"880e": "artist.",
+"040a": "AU@",
+"040b": "eng",
+"040c": "AU@",
+"040d": 
+[
+
+    "OCLCO",
+    "UBC",
+    "HMY"
+
+],
+"3372": "rdamedia",
+"8306": "880-08",
+"880t": "사랑손님과어머니.",
+"650v": "Comic books, strips, etc.",
+"880v": 
+[
+
+    "03",
+    "03."
+
+],
+"2646": "880-04",
+"toc": "Sarang sonnim kwa ŏmŏni / wŏnjak Chu Yo-sŏp -- Nongu / wŏnjak Yi Kŭn-yŏng -- Pom kwa sinjangno / wŏnjak Ch'oe Myŏng-hŭi -- Owŏl ŭi hunp'ung / wŏnjak Pak T'ae-wŏn -- Maeng Sunsa / wŏnjak Ch'ae Man-sik -- Hŭin chongi suyŏm / wŏnjak Ha Kŭn-ch'an",
+"700a": "Chu, Yo-sŏp,",
+"4906": "880-05",
+"336a": 
+[
+
+    "still image",
+    "text"
+
+],
+"049a": "HMYY",
+"336b": 
+
+        [
+            "sti",
+            "txt"
+        ],
+        "700d": "1902-1972.",
+        "300a": "256 pages :",
+        "300b": "illustrations ;",
+        "300c": "26 cm.",
+        "3382": "rdacarrier",
+        "700t": "Sarang sonnim kwa ŏmŏni.",
+        "2456": "880-02",
+        "1006": "880-01",
+        "337a": "unmediated",
+        "337b": "n",
+        "830a": "Manhwa Han'guk taep'yo munhaksŏn ;",
+        "264a": "Kyŏnggi-do P'aju-si :",
+        "264b": "Chuniŏ Kimyŏngsa,",
+        "264c": "2012.",
+        "490a": "Manhwa Han'guk taep'yo munhaksŏn ;",
+        "050a": "PN6790.K64",
+        "050b": "M35955 2012 vol.3",
+        "5056": "880-06"
+    }
+
+},
+"15": 
+{
+
+    "holding_libs": 
+
+[
+
+    "SCH",
+    "WID",
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Bechdel, Alison, 1960-  Comic books, strips, etc.",
+    "Fathers and daughters Fiction.",
+    "Lesbians Fiction.",
+    "Cartoonists United States Comic books, strips, etc.",
+    "Graphic novels.",
+    "Bildungsromans.",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"pages_numeric": 232,
+"score_holding_libs": 3,
+"sub_title": "a family tragicomic",
+"id_isbn": 
+[
+
+    "9780618477944",
+    "0618477942"
+
+],
+"id": "300996C8-A9D2-6CF0-914E-58FFE7C34865",
+"collection": "hollis_catalog",
+"title_sort": "Fun home",
+"call_num": 
+[
+
+    "PN6727.B3757 Z46 2006"
+
+],
+"score_checkouts_undergrad": 50,
+"height": "24 cm",
+"title_link_friendly": "fun-home",
+"creator": 
+[
+
+    "Bechdel, Alison, 1960-"
+
+],
+"score_checkouts_grad": 17,
+"pub_date": "2006",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pub_location": "Boston",
+"score_reserves": 10,
+"pages": "232 p",
+"id_lccn": "2005030304",
+"loc_call_num_sort_order": 
+[
+
+    8404129
+
+],
+"score_checkouts_fac": 11,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 27,
+"shelfrank": 50,
+"language": "English",
+"title": "Fun home",
+"id_inst": "009889189",
+"id_oclc": "ocm62127870",
+"note": 
+[
+
+    "This book takes its place alongside the unnerving, memorable, darkly funny family memoirs of Augusten Burroughs and Mary Karr. It's a father-daughter tale perfectly suited to the graphic memoir form. Meet Alison's father, a historic preservation expert and obsessive restorer of the family's Victorian house, a third-generation funeral home director, a high school English teacher, an icily distant parent, and a closeted homosexual who, as it turns out, is involved with male students and a family babysitter. Through narrative that is alternately heartbreaking and fiercely funny, we are drawn into a daughter's complex yearning for her father. And yet, apart from assigned stints dusting caskets at the family-owned 'fun home, ' as Alison and her brothers call it, the relationship achieves its most intimate expression through the shared code of books. When Alison comes out as homosexual herself in late adolescence, the denouement is swift, graphic, and redemptive.--From publisher description"
+
+],
+"height_numeric": 24,
+"format": "Book",
+"publisher": "Houghton Mifflin",
+"pub_date_numeric": 2006,
+"source_record": 
+{
+
+    "600v": "Comic books, strips, etc.",
+    "988a": "20060622",
+    "520a": "This book takes its place alongside the unnerving, memorable, darkly funny family memoirs of Augusten Burroughs and Mary Karr. It's a father-daughter tale perfectly suited to the graphic memoir form. Meet Alison's father, a historic preservation expert and obsessive restorer of the family's Victorian house, a third-generation funeral home director, a high school English teacher, an icily distant parent, and a closeted homosexual who, as it turns out, is involved with male students and a family babysitter. Through narrative that is alternately heartbreaking and fiercely funny, we are drawn into a daughter's complex yearning for her father. And yet, apart from assigned stints dusting caskets at the family-owned 'fun home, ' as Alison and her brothers call it, the relationship achieves its most intimate expression through the shared code of books. When Alison comes out as homosexual herself in late adolescence, the denouement is swift, graphic, and redemptive.--From publisher description.",
+    "245a": "Fun home :",
+    "245b": "a family tragicomic /",
+    "035a": "ocm62127870",
+    "245c": "Alison Bechdel.",
+    "100a": "Bechdel, Alison,",
+    "9060": "DLC",
+    "043a": "n-us---",
+    "100d": "1960-",
+    "6552": 
+
+[
+
+    "gsafd",
+    "lcgft"
+
+],
+"505a": "Old father, old artificer -- A happy death -- That old catastrophe -- In the shadow of young girls in flower -- The canary-colored caravan of death -- The ideal husband -- The antihero's journey.",
+"650a": 
+[
+
+    "Fathers and daughters",
+    "Lesbians",
+    "Cartoonists"
+
+],
+"020a": 
+[
+
+    "9780618477944",
+    "0618477942 (hbk.)"
+
+],
+"040a": "DLC",
+"040c": "DLC",
+"040d": "DLC",
+"650v": 
+[
+
+    "Fiction.",
+    "Fiction.",
+    "Comic books, strips, etc."
+
+],
+"0822": "22",
+"toc": "Old father, old artificer -- A happy death -- That old catastrophe -- In the shadow of young girls in flower -- The canary-colored caravan of death -- The ideal husband -- The antihero's journey",
+"650z": "United States",
+"776a": 
+[
+
+    "Bechdel, Alison, 1960-",
+    "Bechdel, Alison, 1960-"
+
+],
+"655a": 
+[
+
+    "Graphic novels.",
+    "Bildungsromans",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"776d": 
+[
+
+    "Boston : Houghton Mifflin, c2006",
+    "Boston : Houghton Mifflin, ©2006"
+
+],
+"300a": "232 p. :",
+"300b": "chiefly ill. ;",
+"300c": "24 cm.",
+"776i": 
+[
+
+    "Online version:",
+    "Online version:"
+
+],
+"score_total": "68",
+"776t": 
+[
+
+    "Fun home.",
+    "Fun home."
+
+],
+"776w": 
+
+        [
+            "(OCoLC)654847254",
+            "(OCoLC)654847254"
+        ],
+        "600a": "Bechdel, Alison,",
+        "600d": "1960- ",
+        "010a": "  2005030304",
+        "042a": "pcc",
+        "260a": "Boston :",
+        "260b": "Houghton Mifflin,",
+        "050a": "PN6727.B3757",
+        "260c": "c2006.",
+        "050b": "Z46 2006",
+        "082a": "741.5/973"
+    }
+
+},
+"16": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Students for a Democratic Society (U.S.) History.",
+    "College students Political activity United States History.",
+    "New Left United States History.",
+    "History.",
+    "Graphic novels."
+
+],
+"pages_numeric": 214,
+"score_holding_libs": 1,
+"sub_title": "a graphic history",
+"id_isbn": 
+[
+
+    "9780809095391",
+    "0809095394"
+
+],
+"id": "74C6B483-92FF-BBC6-B253-3B9C824E42BC",
+"collection": "hollis_catalog",
+"title_sort": "Students for a Democratic Society",
+"call_num": 
+[
+
+    "LA229 .P395 2008"
+
+],
+"score_checkouts_undergrad": 5,
+"height": "22 cm",
+"title_link_friendly": "students-for-a-democratic-society",
+"creator": 
+[
+
+    "Pekar, Harvey.",
+    "Dumm, Gary.",
+    "Buhle, Paul, 1944-"
+
+],
+"pub_date": "2008",
+"loc_call_num_subject": 
+[
+
+    "Education -- History of education -- By region or country -- United States -- Student life"
+
+],
+"pub_location": "New York",
+"pages": "viii, 214 p",
+"id_lccn": "2007040641",
+"loc_call_num_sort_order": 
+[
+
+    6086025
+
+],
+"score_checkouts_fac": 1,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 2,
+"title": "Students for a Democratic Society",
+"language": "English",
+"id_inst": "011380608",
+"id_oclc": "ocn174500705",
+"note": 
+[
+
+    "A history of the group Students for a Democratic Society told in graphic form",
+    "From the Publisher: The History of SDS as You've Never Seen It Before. In 1962 at a United Auto Workers' camp in Michigan, Students for a Democratic Society held its historic convention and prepared the famous Port Huron Statement, drafted by Tom Hayden. This statement, criticizing the U.S. government's failure to pursue international peace or address domestic inequality, became the organization's manifesto. Its last convention was held in 1969 in Chicago, where, collapsing under the weight of its notoriety and popularity, it shattered into myriad factions. Through brilliant art and they-were-there dialogue, famed graphic novelist Harvey Pekar, gifted artist Gary Dumm, and renowned historian Paul Buhle illustrate the tumultuous decade that first defined and then was defined by the men and women who gathered under the SDS banner. Students for a Democratic Society: A Graphic History captures the idealism and activism that drove a generation of young Americans to believe that even one person's actions can help transform the world"
+
+],
+"height_numeric": 22,
+"format": "Book",
+"publisher": "Hill and Wang",
+"pub_date_numeric": 2008,
+"source_record": 
+{
+
+    "988a": "20080207",
+    "500a": "A history of the group Students for a Democratic Society told in graphic form.",
+    "520a": "From the Publisher: The History of SDS as You've Never Seen It Before. In 1962 at a United Auto Workers' camp in Michigan, Students for a Democratic Society held its historic convention and prepared the famous Port Huron Statement, drafted by Tom Hayden. This statement, criticizing the U.S. government's failure to pursue international peace or address domestic inequality, became the organization's manifesto. Its last convention was held in 1969 in Chicago, where, collapsing under the weight of its notoriety and popularity, it shattered into myriad factions. Through brilliant art and they-were-there dialogue, famed graphic novelist Harvey Pekar, gifted artist Gary Dumm, and renowned historian Paul Buhle illustrate the tumultuous decade that first defined and then was defined by the men and women who gathered under the SDS banner. Students for a Democratic Society: A Graphic History captures the idealism and activism that drove a generation of young Americans to believe that even one person's actions can help transform the world.",
+    "245a": "Students for a Democratic Society :",
+    "035a": "ocn174500705",
+    "245b": "a graphic history /",
+    "245c": "written by Harvey Pekar ; art by Gary Dumm ; edited by Paul Buhle.",
+    "100a": "Pekar, Harvey.",
+    "9060": "DLC",
+    "043a": "n-us---",
+    "6552": "fast",
+    "505a": "Introduction / by Paul Buhle -- SDS highlights / by Harvey Pekar ; art by Gary Dumm -- White boy narrative / by Mark Naison ; art by Gary Dumm -- My life in SDS / by Penelope Rosemont ; art by Gary Dumm -- \"Fill-in\" LeBlanc / by Paul LeBlanc and Paul Buhle ; art by Gary Dumm -- It's a long way to Hazard / story and art by Nick Thorkelson -- Cleveland ERAP project / by Alan Wald and Harvey Pekar ; art by Gary Dumm -- Join Chicago / by Harvey Pekar ; art by Summer McClinton -- I ain't marchin' anymore / by John Pietro ; art by Gary Dumm from layouts by John Pietro -- The Heather Tobias Booth story / by Heather Tobias Booth and Paul Buhle ; art by Gary Dumm from layouts by Gene Booth -- Austin stories, part one / by Marianne Wizard, Alice Embree, and Harvey Pekar ; art by Gary Dumm -- Vignettes from New Orleans / by Eric Gordon and Harvey Pekar ; art by Gary Dumm -- More love / by Paul Buhle ; art by Gary Dumm -- My life at stake / by Paul Buhle ; art by Gary Dumm -- Madison strike riot / by Paul Buhle ; art by Gary Dumm -- Remembering 1968 / by F. Perlman and Paul Buhle ; art by Gary Dumm -- My mimeographed career, 1968 / story and art by Josh Brown -- The SDS magazine / by Paul Buhle ; art by Gary Dumm -- Iowa SDSs story / by David Roheim and Harvey Pekar ; art by Gary Dumm -- A children's revolution / story and art by James D. Cennamo -- Turn your chairs around / by Max Elbaum and Harvey Pekar ; art by Gary Dumm -- Austin stories - part two / by Marianne Wizard, Alice Embree and Harvey Pekar ; art by Gary Dumm -- With SDSer Michael Balter at UCLA and in the army / by Michael Balter and Harvey Pekar ; art by Gary Dumm -- Kent State / by Harvey Pekar ; art by Wes Modes -- Weathermen / story and art by Wes Modes -- Saving the archives / by Paul Buhle ; art by Gary Dumm -- Adventures in participatory democracy / by Sandy Lillydahl ; art by Gary Dumm -- SDS revived / by Bruce Rubenstein and Paul Buhle ; art by Ed Piskor -- Gary Dumm the artist.",
+    "610a": "Students for a Democratic Society (U.S.)",
+    "650a": 
+
+[
+
+    "College students",
+    "New Left"
+
+],
+"020a": 
+[
+
+    "9780809095391 (hbk. : alk. paper)",
+    "0809095394 (hbk. : alk. paper)"
+
+],
+"250a": "1st ed.",
+"040a": "DLC",
+"040c": "DLC",
+"040d": "DLC",
+"610x": "History.",
+"650x": 
+[
+
+    "Political activity",
+    "History.",
+    "History."
+
+],
+"toc": "Introduction / by Paul Buhle -- SDS highlights / by Harvey Pekar ; art by Gary Dumm -- White boy narrative / by Mark Naison ; art by Gary Dumm -- My life in SDS / by Penelope Rosemont ; art by Gary Dumm -- \"Fill-in\" LeBlanc / by Paul LeBlanc and Paul Buhle ; art by Gary Dumm -- It's a long way to Hazard / story and art by Nick Thorkelson -- Cleveland ERAP project / by Alan Wald and Harvey Pekar ; art by Gary Dumm -- Join Chicago / by Harvey Pekar ; art by Summer McClinton -- I ain't marchin' anymore / by John Pietro ; art by Gary Dumm from layouts by John Pietro -- The Heather Tobias Booth story / by Heather Tobias Booth and Paul Buhle ; art by Gary Dumm from layouts by Gene Booth -- Austin stories, part one / by Marianne Wizard, Alice Embree, and Harvey Pekar ; art by Gary Dumm -- Vignettes from New Orleans / by Eric Gordon and Harvey Pekar ; art by Gary Dumm -- More love / by Paul Buhle ; art by Gary Dumm -- My life at stake / by Paul Buhle ; art by Gary Dumm -- Madison strike riot / by Paul Buhle ; art by Gary Dumm -- Remembering 1968 / by F. Perlman and Paul Buhle ; art by Gary Dumm -- My mimeographed career, 1968 / story and art by Josh Brown -- The SDS magazine / by Paul Buhle ; art by Gary Dumm -- Iowa SDSs story / by David Roheim and Harvey Pekar ; art by Gary Dumm -- A children's revolution / story and art by James D. Cennamo -- Turn your chairs around / by Max Elbaum and Harvey Pekar ; art by Gary Dumm -- Austin stories - part two / by Marianne Wizard, Alice Embree and Harvey Pekar ; art by Gary Dumm -- With SDSer Michael Balter at UCLA and in the army / by Michael Balter and Harvey Pekar ; art by Gary Dumm -- Kent State / by Harvey Pekar ; art by Wes Modes -- Weathermen / story and art by Wes Modes -- Saving the archives / by Paul Buhle ; art by Gary Dumm -- Adventures in participatory democracy / by Sandy Lillydahl ; art by Gary Dumm -- SDS revived / by Bruce Rubenstein and Paul Buhle ; art by Ed Piskor -- Gary Dumm the artist",
+"0822": "22",
+"650z": 
+[
+
+    "United States",
+    "United States"
+
+],
+"700a": 
+[
+
+    "Dumm, Gary.",
+    "Buhle, Paul,"
+
+],
+"655a": 
+
+        [
+            "History.",
+            "Graphic novels."
+        ],
+        "700d": "1944-",
+        "300a": "viii, 214 p. :",
+        "300b": "chiefly ill. ;",
+        "300c": "22 cm.",
+        "score_total": "4",
+        "010a": "  2007040641",
+        "260a": "New York :",
+        "260b": "Hill and Wang,",
+        "050a": "LA229",
+        "260c": "2008.",
+        "050b": ".P395 2008",
+        "082a": "378.1/981"
+    }
+
+},
+"17": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Moomins (Fictitious characters) Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"score_holding_libs": 1,
+"sub_title": "the complete Tove Jansson comic strip",
+"id_isbn": 
+[
+
+    "1894937805",
+    "9781894937801",
+    "9781897299197",
+    "97818972"
+
+],
+"id": "4D9D7F8A-C65E-5E7D-306C-CE172F263FC6",
+"collection": "hollis_catalog",
+"title_sort": "Moomin",
+"call_num": 
+[
+
+    "PN6738.M66 J36 2006",
+    "PN6790.F53 J366 2007"
+
+],
+"score_checkouts_undergrad": 2,
+"height": "32 cm",
+"title_link_friendly": "moomin",
+"creator": 
+[
+
+    "Jansson, Tove."
+
+],
+"pub_date": "2006",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- Great Britain",
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country"
+
+],
+"pub_location": "Montréal",
+"pages": "v",
+"loc_call_num_sort_order": 
+[
+
+    8406719,
+    8409005
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Moomin",
+"language": "English",
+"id_inst": "010163648",
+"id_oclc": "ocn234074658",
+"note": 
+[
+
+    "Originally published in the Evening news, London, 1953-1959",
+    "The author's comic strip is published for the first time in North America in the first volume of a proposed multi-volume series designed to reprint the entire strip of the magical world of the author's creation, the Moomins"
+
+],
+"height_numeric": 32,
+"format": "Book",
+"publisher": "Drawn & Quarterly",
+"pub_date_numeric": 2006,
+"source_record": 
+{
+
+    "988a": "20061129",
+    "899a": "415_565471",
+    "500a": "Originally published in the Evening news, London, 1953-1959.",
+    "520a": "The author's comic strip is published for the first time in North America in the first volume of a proposed multi-volume series designed to reprint the entire strip of the magical world of the author's creation, the Moomins.",
+    "245a": "Moomin :",
+    "035a": 
+
+[
+
+    "ocn234074658",
+    "ocm67860139"
+
+],
+"245b": "the complete Tove Jansson comic strip /",
+"245c": "Tove Jansson.",
+"100a": "Jansson, Tove.",
+"9060": "OCLC",
+"055a": "PN6738 M66",
+"055b": "J35 2006",
+"016a": "20069022186",
+"505g": 
+[
+
+    "V. 1.",
+    "v. 2.",
+    "v. 3.",
+    "v. 4.",
+    "v. 7."
+
+],
+"650a": "Moomins (Fictitious characters)",
+"020a": 
+[
+
+    "1894937805 (bk. 1) :",
+    "9781894937801 (bk. 1) :",
+    "9781897299197 (bk. 2)",
+    "9781897299555 (bk. 3)",
+    "9781897299944 (bk. 5)",
+    "9781770460423 (bk. 6)",
+    "9781770460621 (bk. 7)",
+    "9781770461215 (bk. 8)",
+    "9781770461574 (bk. 9)"
+
+],
+"020c": 
+[
+
+    "$19.95",
+    "$19.95"
+
+],
+"040a": "NLC",
+"040b": "eng",
+"040c": "NLC",
+"040d": 
+[
+
+    "BAKER",
+    "GK8"
+
+],
+"505t": 
+[
+
+    "Moomin and the brigands ;",
+    "Moomin and family life ;",
+    "Moomin on the riviera ;",
+    "Moomin's desert island --",
+    "Moomin's winter follies ;",
+    "Moomin mamma's maid ;",
+    "Moomin builds a house ;",
+    "Moomin begins a new life --",
+    "Moomin falls in love ;",
+    "Moominvalley turns jungle ;",
+    "Moomin and the Martians --",
+    "Moomin and the sea --",
+    "Club life in Moominvalley --",
+    "Moomin goes wild west ;",
+    "Snorkmaiden goes Rococo ;",
+    "The conscientious Moomins ;",
+    "Moomin and the comet ;",
+    "Moomin and the golden tail --",
+    "Moomin the colonist ;",
+    "Moomin and the scouts ;",
+    "Moomin and the farm ;",
+    "Moomin and the Goldfields."
+
+],
+"650v": "Comic books, strips, etc.",
+"toc": "V. 1. Moomin and the brigands ; Moomin and family life ; Moomin on the riviera ; Moomin's desert island -- v. 2. Moomin's winter follies ; Moomin mamma's maid ; Moomin builds a house ; Moomin begins a new life -- v. 3. Moomin falls in love ; Moominvalley turns jungle ; Moomin and the Martians -- Moomin and the sea -- Club life in Moominvalley -- v. 4. Moomin goes wild west ; Snorkmaiden goes Rococo ; The conscientious Moomins ; Moomin and the comet ; Moomin and the golden tail -- v. 7. Moomin the colonist ; Moomin and the scouts ; Moomin and the farm ; Moomin and the Goldfields",
+"0822": "22",
+"776a": 
+[
+
+    "Jansson, Tove.",
+    "Jansson, Tove."
+
+],
+"655a": "Comic books, strips, etc.",
+"776d": 
+[
+
+    "Montréal : Drawn & Quarterly ; New York : Distributed in the USA by Farrar, Straus and Girioux, ©2006-<c2009>",
+    "Montréal : Drawn & Quarterly ; New York : Distributed in the USA by Farrar, Straus and Girioux, ©2006-<c2009>"
+
+],
+"300a": "v. :",
+"300b": "ill. ;",
+"300c": "32 cm.",
+"776i": 
+[
+
+    "Online version:",
+    "Online version:"
+
+],
+"score_total": "1",
+"776t": 
+[
+
+    "Moomin.",
+    "Moomin."
+
+],
+"776w": 
+[
+
+    "(OCoLC)608022698",
+    "(OCoLC)609318205"
+
+],
+"260a": 
+[
+
+    "Montréal :",
+    "New York :"
+
+],
+"260b": 
+
+        [
+            "Drawn & Quarterly ;",
+            "Distributed in the USA by Farrar, Straus and Giroux,"
+        ],
+        "050a": "PN6790.F53",
+        "260c": "2006-<2014>",
+        "050b": "J366 2007",
+        "082a": "741.5/94897"
+    }
+
+},
+"18": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID",
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Women China Comic books, strips, etc.",
+    "Christians China Comic books, strips, etc.",
+    "Persecution China Comic books, strips, etc.",
+    "Christianity China History Boxer Rebellion, 1899-1901 Fiction.",
+    "Historical fiction.",
+    "Graphic novels.",
+    "China History Boxer Rebellion, 1899-1901 Comic books, strips, etc.",
+    "China History Boxer Rebellion, 1899-1901 Fiction.",
+    "Graphic novels.",
+    "Graphic novels United States.",
+    "Young adult fiction."
+
+],
+"score_holding_libs": 2,
+"id_isbn": 
+[
+
+    "9781596433595",
+    "1596433590",
+    "9781596436893",
+    "15964368"
+
+],
+"id": "8568C12D-6737-9438-8D6C-295A6EAACDF0",
+"collection": "hollis_catalog",
+"call_num": 
+[
+
+    "PN6727.Y36 B68 2013"
+
+],
+"title_sort": "Boxers & Saints",
+"height": "22 cm",
+"title_link_friendly": "boxers--saints",
+"creator": 
+[
+
+    "Yang, Gene Luen.",
+    "Pien, Lark, colorist.",
+    ".",
+    "."
+
+],
+"pub_date": "2013",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pages": "2 volumes",
+"loc_call_num_sort_order": 
+[
+
+    8175999
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1408819238",
+"shelfrank": 1,
+"title": "Boxers & Saints",
+"language": "English",
+"id_inst": "013801745",
+"id_oclc": "(PromptCat)999591366",
+"note": 
+[
+
+    "Some releases bound by Paw Prints",
+    "Includes bibliographical references",
+    "Boxers : In China in 1898 bands of foreign missionaries and soldiers roam the countryside, bullying and robbing Chinese peasants. Little Bao has had enough: harnessing the powers of ancient Chinese gods, he recruits an army of Boxers--commoners trained in kung fu who fight to free China from \"foreign devils.\"",
+    "Saints : \"China, 1898. An unwanted and unwelcome fourth daughter, Four-Girl isn't even given a proper name by her family when she's born. She finally finds friendship-- and a name, Vibiana -- in the most unlikely of places: Christianity. But China is a dangerous place for Christians. The Boxer Rebellion is in full swing, and bands of young men roam the countryside, murdering Westerners and Chinese Christians alike. Torn between her nation and her Christian friends, Vibiana will have to decide where her true loyalties lie-- and whether she is willing to die for her faith\"--Front flap"
+
+],
+"height_numeric": 22,
+"format": "Book",
+"pub_date_numeric": 2013,
+"source_record": 
+{
+
+    "988a": "20131012",
+    "504a": "Includes bibliographical references.",
+    "899a": 
+
+[
+
+    "415_565224",
+    "415_565785"
+
+],
+"338a": "volume",
+"338b": "nc",
+"500a": "Some releases bound by Paw Prints.",
+"520a": 
+[
+
+    "Boxers : In China in 1898 bands of foreign missionaries and soldiers roam the countryside, bullying and robbing Chinese peasants. Little Bao has had enough: harnessing the powers of ancient Chinese gods, he recruits an army of Boxers--commoners trained in kung fu who fight to free China from \"foreign devils.\"",
+    "Saints : \"China, 1898. An unwanted and unwelcome fourth daughter, Four-Girl isn't even given a proper name by her family when she's born. She finally finds friendship-- and a name, Vibiana -- in the most unlikely of places: Christianity. But China is a dangerous place for Christians. The Boxer Rebellion is in full swing, and bands of young men roam the countryside, murdering Westerners and Chinese Christians alike. Torn between her nation and her Christian friends, Vibiana will have to decide where her true loyalties lie-- and whether she is willing to die for her faith\"--Front flap."
+
+],
+"245a": "Boxers & Saints /",
+"035a": 
+[
+
+    "(PromptCat)99959136689",
+    "ocn825754024"
+
+],
+"100a": "Yang, Gene Luen,",
+"245c": "Gene Luen Yang ; color by Lark Pien.",
+"9060": "OCLC",
+"043a": "a-cc---",
+"100e": 
+[
+
+    "author,",
+    "artist."
+
+],
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"505a": "[v. 1]. Boxers -- [v. 2]. Saints.",
+"246a": "Boxers and Saints",
+"650a": 
+[
+
+    "Women",
+    "Christians",
+    "Persecution",
+    "Christianity",
+    "Historical fiction.",
+    "Graphic novels."
+
+],
+"020a": 
+[
+
+    "9781596433595 (Boxers)",
+    "1596433590 (Boxers)",
+    "9781596436893 (Saints)",
+    "1596436891 (Saints)",
+    "9781596439245 (boxed set)",
+    "1596439246 (boxed set)",
+    "1480615102 (Paw Prints bdg.)",
+    "9781480615106 (Paw Prints bdg.)",
+    "1480615110 (Paw Prints bdg.)",
+    "9781480615113 (Paw Prints bdg.)"
+
+],
+"250a": "First edition.",
+"040a": "YDXCP",
+"040b": "eng",
+"040c": "YDXCP",
+"040d": 
+[
+
+    "BTCTA",
+    "BDX",
+    "NBT",
+    "OCLCO",
+    "SO",
+    "VVS",
+    "ZCU",
+    "IXA",
+    "STF",
+    "P4I",
+    "BRZ",
+    "WAU",
+    "MEU",
+    "YU6",
+    "OCLCO",
+    "OCLCQ"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Fiction."
+
+],
+"650x": "History",
+"650y": "Boxer Rebellion, 1899-1901",
+"toc": "[v. 1]. Boxers -- [v. 2]. Saints",
+"0822": "23",
+"650z": 
+[
+
+    "China",
+    "China",
+    "China",
+    "China"
+
+],
+"700a": 
+[
+
+    "Pien, Lark,",
+    "Yang, Gene Luen,",
+    "Yang, Gene Luen,"
+
+],
+"546a": "Text in English.",
+"655a": 
+[
+
+    "Graphic novels.",
+    "Graphic novels",
+    "Young adult fiction."
+
+],
+"336a": 
+[
+
+    "text",
+    "still image"
+
+],
+"336b": 
+[
+
+    "txt",
+    "sti"
+
+],
+"740a": 
+[
+
+    "Boxers.",
+    "Saints."
+
+],
+"700e": 
+[
+
+    "colorist.",
+    "author,",
+    "artist.",
+    "author,",
+    "artist."
+
+],
+"300a": "2 volumes :",
+"651a": 
+[
+
+    "China",
+    "China"
+
+],
+"300b": "chiefly color illustrations ;",
+"300c": "22 cm",
+"score_total": "1",
+"3382": "rdacarrier",
+"700t": 
+[
+
+    "Boxers.",
+    "Saints."
+
+],
+"655z": "United States.",
+"651v": 
+[
+
+    "Comic books, strips, etc.",
+    "Fiction."
+
+],
+"651x": 
+[
+
+    "History",
+    "History"
+
+],
+"651y": 
+
+        [
+            "Boxer Rebellion, 1899-1901",
+            "Boxer Rebellion, 1899-1901"
+        ],
+        "337a": "unmediated",
+        "337b": "n",
+        "264a": "New York :",
+        "264b": "First Second,",
+        "264c": "2013.",
+        "050a": "PN6727.Y36",
+        "050b": "B68 2013",
+        "082a": "741.5",
+        "040$": "dVKC"
+    }
+
+},
+"19": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Corporations Comic books, strips, etc.",
+    "Technology Comic books, strips, etc.",
+    "Good and evil Comic books, strips, etc.",
+    "Science fiction comic books, strips, etc.",
+    "Suspense comic books, strips, etc.",
+    "Adventure fiction.",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"pages_numeric": 346,
+"score_holding_libs": 1,
+"sub_title": "a graphic novel",
+"id_isbn": 
+[
+
+    "9780062103949",
+    "0062103946"
+
+],
+"id": "279F484A-9816-E492-6A9D-4A673874D90A",
+"collection": "hollis_catalog",
+"title_sort": "art of war",
+"call_num": 
+[
+
+    "PN6728.A75 R66 2012"
+
+],
+"height": "23 cm",
+"title_link_friendly": "the-art-of-war",
+"creator": 
+[
+
+    "Roman, Kelly.",
+    "DeWeese, Michael, illustrator.",
+    "Giles, Lionel, 1875-1958, translator.",
+    ".",
+    "Ruoto, William, book designer."
+
+],
+"pub_date": "2012",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pub_location": "New York",
+"pages": "346 p",
+"loc_call_num_sort_order": 
+[
+
+    8405299
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "The art of war",
+"language": "English",
+"id_inst": "013353843",
+"id_oclc": "(PromptCat)999500544",
+"note": 
+[
+
+    "Accompanying text translated from: Sunzi bing fa",
+    "Infiltrating the organization of mogul Sun Tzu, a modern incarnation of the ancient master of war, to find out who murdered his brother, KR, a former Special Forces soldier, intones the words and lessons of the ancient warrior to face down the Chinese government and confront Sun Tzu himself"
+
+],
+"height_numeric": 23,
+"format": "Book",
+"publisher": "Harper Perennial",
+"pub_date_numeric": 2012,
+"source_record": 
+{
+
+    "600v": "Adaptations.",
+    "988a": "20120917",
+    "899a": "415_565087",
+    "500a": "Accompanying text translated from: Sunzi bing fa.",
+    "520a": "Infiltrating the organization of mogul Sun Tzu, a modern incarnation of the ancient master of war, to find out who murdered his brother, KR, a former Special Forces soldier, intones the words and lessons of the ancient warrior to face down the Chinese government and confront Sun Tzu himself.",
+    "245a": "The art of war :",
+    "035a": 
+
+[
+
+    "(PromptCat)99950054451",
+    "ocn757484144"
+
+],
+"245b": "a graphic novel /",
+"100a": "Roman, Kelly.",
+"245c": "by Kelly Roman ; illustrated by Michael DeWeese ; [lettered by Jason Arthur ; Sun Tzu's The art of war translated by Lionel Giles].",
+"9060": "OCLC",
+"6552": 
+[
+
+    "gsafd",
+    "gsafd"
+
+],
+"650a": 
+[
+
+    "Corporations",
+    "Technology",
+    "Good and evil"
+
+],
+"020a": 
+[
+
+    "9780062103949 (pbk.)",
+    "0062103946 (pbk.)"
+
+],
+"250a": "1st ed.",
+"040a": "BTCTA",
+"040b": "eng",
+"040c": "BTCTA",
+"040d": 
+[
+
+    "BDX",
+    "YDXCP",
+    "WIM",
+    "BKX",
+    "ORX",
+    "CZA",
+    "BWX",
+    "NDD"
+
+],
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"0822": "23",
+"700a": 
+[
+
+    "DeWeese, Michael,",
+    "Giles, Lionel,",
+    "Sunzi,",
+    "Ruoto, William,"
+
+],
+"655a": 
+[
+
+    "Science fiction comic books, strips, etc.",
+    "Suspense comic books, strips, etc.",
+    "Adventure fiction.",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"700d": 
+[
+
+    "1875-1958,",
+    "active 6th century B.C."
+
+],
+"700e": 
+
+        [
+            "illustrator.",
+            "translator.",
+            "book designer."
+        ],
+        "300a": "346 p. :",
+        "300b": "chiefly ill., map ;",
+        "300c": "23 cm.",
+        "041g": "eng",
+        "041h": "chi",
+        "700t": "Sunzi bing fa.",
+        "600a": "Sunzi,",
+        "600d": "active 6th century B. C.",
+        "260a": "New York :",
+        "050a": "PN6728.A75",
+        "260b": "Harper Perennial,",
+        "260c": "c2012.",
+        "050b": "R66 2012",
+        "082a": "741.5/973",
+        "600t": "Sunzi bing fa"
+    }
+
+},
+"20": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Executions and executioners Japan Comic books, strips, etc.",
+    "Samurai Comic books, strips, etc.",
+    "Comic books, strips, etc. Japan Translations into English.",
+    "Japan History Tokugawa period, 1600-1868 Comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "1593072074",
+    "9781593072070",
+    "1593072082",
+    "97815930720"
+
+],
+"id": "C356246B-161F-C086-481C-3E20A4C9B88F",
+"collection": "hollis_catalog",
+"title_sort": "Samurai executioner",
+"call_num": 
+[
+
+    "PN6790.J33 K65 2004"
+
+],
+"height": "16 cm",
+"title_link_friendly": "samurai-executioner",
+"creator": 
+[
+
+    "Koike, Kazuo, 1936-",
+    "Kojima, Goseki."
+
+],
+"score_checkouts_grad": 1,
+"pub_date": "2004",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country"
+
+],
+"pub_location": "Milwaukie, OR",
+"pages": "v",
+"loc_call_num_sort_order": 
+[
+
+    8409593
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Samurai executioner",
+"language": "English",
+"id_inst": "012330778",
+"id_oclc": "ocm57555499",
+"height_numeric": 16,
+"format": "Book",
+"publisher": "Dark Horse Manga",
+"pub_date_numeric": 2004,
+"source_record": 
+{
+
+    "8806": 
+
+[
+
+    "100-01",
+    "240-02",
+    "700-03"
+
+],
+"988a": "20100427",
+"015a": "GBA526474",
+"245a": "Samurai executioner /",
+"035a": "ocm57555499",
+"245c": "story, Kazuo Koike ; art, Goseki Kojima ; [translation, Dana Lewis].",
+"100a": "Koike, Kazuo,",
+"9060": "OCLC",
+"043a": "a-ja---",
+"100d": "1936-",
+"7006": "880-03",
+"505a": "v. 1. When the demon knife weeps -- v. 2. Two bodies, two minds -- v. 3. The hell stick -- v. 4. Portrait of death -- v. 5. Ten fingers, one life -- v. 6. Shinko the Kappa -- v. 7. The bamboo splitter -- v. 8. The death sign of spring -- v. 9. Facing life and death -- v. 10. A Couple of jitte.",
+"016a": "013148396",
+"650a": 
+[
+
+    "Executions and executioners",
+    "Samurai",
+    "Comic books, strips, etc."
+
+],
+"880a": 
+[
+
+    "小池一雄,",
+    "首斬り朝.",
+    "小島剛夕."
+
+],
+"020a": 
+[
+
+    "1593072074 (pbk. : v. 1)",
+    "9781593072070 (pbk. : v. 1)",
+    "1593072082 (pbk. : v. 2)",
+    "9781593072087 (pbk. : v. 2)",
+    "1593072090 (pbk. : v. 3)",
+    "9781593072094 (pbk. : v. 3)",
+    "1593072104 (v. 4 : pbk.)",
+    "9781593072100 (v. 4 : pbk.)",
+    "1593072112 (v. 5 : pbk.)",
+    "9781593072117 (v. 5 : pbk.)",
+    "1593072759 (v. 6 : pbk.)",
+    "9781593072759 (v. 6 : pbk.)",
+    "1593072767 (v. 7 : pbk.)",
+    "9781593072766 (v. 7 : pbk.)",
+    "1593072775 (v. 8 : pbk.)",
+    "9781593072773 (v. 8 : pbk.)",
+    "1593072783 (v. 9 : pbk.)",
+    "9781593072780 (v. 9 : pbk.)",
+    "1593072791 (v. 10 : pbk.)",
+    "9781593072797 (v. 10 : pbk.)"
+
+],
+"880d": "1936-",
+"250a": "1st ed.",
+"040a": "ORX",
+"040c": "ORX",
+"040d": 
+[
+
+    "WIM",
+    "OCLCQ",
+    "OCL",
+    "BAKER",
+    "IXA",
+    "BTCTA",
+    "UKM",
+    "TXA"
+
+],
+"880l": "English",
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Translations into English."
+
+],
+"2406": "880-02",
+"toc": "v. 1. When the demon knife weeps -- v. 2. Two bodies, two minds -- v. 3. The hell stick -- v. 4. Portrait of death -- v. 5. Ten fingers, one life -- v. 6. Shinko the Kappa -- v. 7. The bamboo splitter -- v. 8. The death sign of spring -- v. 9. Facing life and death -- v. 10. A Couple of jitte",
+"0822": "22",
+"650z": 
+
+        [
+            "Japan",
+            "Japan"
+        ],
+        "700a": "Kojima, Goseki.",
+        "655a": "Graphic novels.",
+        "049a": "HLSS",
+        "300a": "v. :",
+        "651a": "Japan",
+        "300b": "chiefly ill. ;",
+        "300c": "16 cm.",
+        "041a": "eng",
+        "score_total": "1",
+        "041h": "jpn",
+        "0152": "bnb",
+        "651v": "Comic books, strips, etc.",
+        "1006": "880-01",
+        "651x": "History",
+        "651y": "Tokugawa period, 1600-1868",
+        "240a": "Kubikiri Asa.",
+        "260a": "Milwaukie, OR :",
+        "260b": "Dark Horse Manga,",
+        "050a": "PN6790.J33",
+        "260c": "2004-2006.",
+        "050b": "K65 2004",
+        "082a": "741.5952",
+        "0162": "Uk",
+        "240l": "English"
+    }
+
+},
+"21": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM",
+    "WID",
+    "GUT"
+
+],
+"lcsh": 
+[
+
+    "Lewis, John, 1940 February 21- Comic books, strips, etc.",
+    "United States. Congress. House Biography Comic books, strips, etc.",
+    "African American legislators Biography Comic books, strips, etc.",
+    "African American civil rights workers Biography Comic books, strips, etc.",
+    "Civil rights movements United States Comic books, strips, etc.",
+    "Graphic novels.",
+    "Comic books, strips, etc.",
+    "Graphic novels.",
+    "Comic books, strips, etc.",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"pages_numeric": 121,
+"score_holding_libs": 3,
+"id_isbn": 
+[
+
+    "9781603093002",
+    "1603093001",
+    "9781480625006",
+    "14806250"
+
+],
+"id": "CAD60058-2E9F-B2B9-F5D9-4BB7DCAF7D37",
+"collection": "hollis_catalog",
+"title_sort": "March",
+"call_num": 
+[
+
+    "E840.8.L43 A3 2013",
+    "E840.8.L43 L48 2013"
+
+],
+"height": "25 cm",
+"title_link_friendly": "march",
+"creator": 
+[
+
+    "Lewis, John, 1940 February 21-",
+    "Aydin, Andrew, author.",
+    "Powell, Nate, illustrator, book designer.",
+    "Ross, Chris, book designer.",
+    "Top Shelf Productions (Marietta, Ga.), publisher."
+
+],
+"pub_date": "2013",
+"loc_call_num_subject": 
+[
+
+    "History: America -- United States -- Later twentieth century, 1961-2000 -- Biography (General)",
+    "History: America -- United States -- Later twentieth century, 1961-2000 -- Biography (General)"
+
+],
+"pages": "121 pages",
+"id_lccn": "2013218903",
+"loc_call_num_sort_order": 
+[
+
+    3022754,
+    3022755
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "March",
+"language": "English",
+"id_inst": "014118141",
+"id_oclc": "(PromptCat)999591366",
+"note": 
+[
+
+    "Cover title.",
+    "\"March is a vivid first-hand account of John Lewis' lifelong struggle for civil and human rights, meditating in the modern age on the distance traveled since the days of Jim Crow and segregation. Rooted in Lewis' personal story, it also reflects on the highs and lows of the broader civil rights movement.\"--Back cover flap.",
+    "\"Designed by Chris Ross and Nate Powell\"--Colophon.",
+    "Book one of a graphic novel trilogy",
+    "This graphic novel is a first-hand account of Congressman John Lewis' lifelong struggle for civil and human rights, meditating in the modern age on the distance traveled since the days of Jim Crow and segregation. Rooted in Lewis' personal story, it also reflects on the highs and lows of the broader civil rights movement. Book one spans Lewis' youth in rural Alabama, his life-changing meeting with Martin Luther King, Jr., the birth of the Nashville Student Movement, and their battle to tear down segregation through nonviolent lunch counter sit-ins, building to a stunning climax on the steps of City Hall. HIs commitment to justice and nonviolence has taken him from an Alabama sharecropper's farm to the halls of Congress, from a segregated schoolroom to the 1963 March on Washington D.C., and from receiving beatings from state troopers, to receiving the Medal of Freedom awarded to him by Barack Obama, the first African-American president -- From cover flaps"
+
+],
+"height_numeric": 25,
+"format": "Book",
+"pub_date_numeric": 2013,
+"source_record": 
+{
+
+    "600v": "Comic books, strips, etc.",
+    "988a": "20140715",
+    "899a": 
+
+[
+
+    "415_565185",
+    "415_565185",
+    "415_565359"
+
+],
+"338a": "volume",
+"338b": "nc",
+"710a": "Top Shelf Productions (Marietta, Ga.),",
+"500a": 
+[
+
+    "Cover title.",
+    "\"March is a vivid first-hand account of John Lewis' lifelong struggle for civil and human rights, meditating in the modern age on the distance traveled since the days of Jim Crow and segregation. Rooted in Lewis' personal story, it also reflects on the highs and lows of the broader civil rights movement.\"--Back cover flap.",
+    "\"Designed by Chris Ross and Nate Powell\"--Colophon.",
+    "Book one of a graphic novel trilogy."
+
+],
+"520a": "This graphic novel is a first-hand account of Congressman John Lewis' lifelong struggle for civil and human rights, meditating in the modern age on the distance traveled since the days of Jim Crow and segregation. Rooted in Lewis' personal story, it also reflects on the highs and lows of the broader civil rights movement. Book one spans Lewis' youth in rural Alabama, his life-changing meeting with Martin Luther King, Jr., the birth of the Nashville Student Movement, and their battle to tear down segregation through nonviolent lunch counter sit-ins, building to a stunning climax on the steps of City Hall. HIs commitment to justice and nonviolence has taken him from an Alabama sharecropper's farm to the halls of Congress, from a segregated schoolroom to the 1963 March on Washington D.C., and from receiving beatings from state troopers, to receiving the Medal of Freedom awarded to him by Barack Obama, the first African-American president -- From cover flaps.",
+"245a": "March.",
+"710e": "publisher.",
+"035a": 
+[
+
+    "(PromptCat)99959136693",
+    "ocn855264301"
+
+],
+"245c": "John Lewis ; [co-written by] Andrew Aydin ; [art by] Nate Powell.",
+"100a": "Lewis, John,",
+"9060": "DLC",
+"043a": "n-us---",
+"100d": "1940 February 21-",
+"100e": "author.",
+"245n": "Book One /",
+"6552": 
+[
+
+    "lcgft",
+    "gsafd"
+
+],
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"610a": "United States.",
+"016a": "016385647",
+"610b": 
+[
+
+    "Congress.",
+    "House"
+
+],
+"650a": 
+[
+
+    "African American legislators",
+    "African American civil rights workers",
+    "Civil rights movements",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"020a": 
+[
+
+    "9781603093002 (paperback : acid-free paper)",
+    "1603093001 (paperback : acid-free paper)",
+    "9781480625006 (Paw Prints)",
+    "1480625000 (Paw Prints)",
+    "9781484402597",
+    "1484402596",
+    "9780606324366",
+    "0606324364"
+
+],
+"040a": "DLC",
+"040b": "eng",
+"040c": "DLC",
+"040d": 
+[
+
+    "TCH",
+    "OCLCO",
+    "IAD",
+    "NSB",
+    "IAD",
+    "ZHI",
+    "UKMGB",
+    "COO",
+    "UPZ",
+    "OLC",
+    "P4I",
+    "ALM",
+    "BTCTA",
+    "YDXCP",
+    "GO6",
+    "GK7",
+    "IOT",
+    "CGP",
+    "NUI",
+    "WIM",
+    "IAC",
+    "IL2",
+    "CMI",
+    "MNW",
+    "EYP",
+    "FUG",
+    "UBY",
+    "FUT",
+    "OCLCA",
+    "PSM",
+    "IOE",
+    "OIP"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"610v": 
+[
+
+    "Biography",
+    "Comic books, strips, etc."
+
+],
+"650v": 
+[
+
+    "Biography",
+    "Comic books, strips, etc.",
+    "Biography",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"0822": "23",
+"650z": "United States",
+"700a": 
+[
+
+    "Aydin, Andrew,",
+    "Powell, Nate,",
+    "Ross, Chris,"
+
+],
+"655a": 
+[
+
+    "Graphic novels.",
+    "Comic books, strips, etc.",
+    "Graphic novels.",
+    "Comic books, strips, etc."
+
+],
+"336a": 
+[
+
+    "text",
+    "still image"
+
+],
+"336b": 
+[
+
+    "txt",
+    "sti"
+
+],
+"700e": 
+[
+
+    "author.",
+    "illustrator,",
+    "book designer.",
+    "book designer."
+
+],
+"586a": "Coretta Scott King Author Honor, 2014.",
+"300a": "121 pages :",
+"300b": "chiefly illustrations ;",
+"300c": "25 cm",
+"score_total": "1",
+"3382": "rdacarrier",
+"337a": "unmediated",
+"600a": "Lewis, John,",
+"337b": "n",
+"600d": "1940 February 21-",
+"264a": "Marietta, GA :",
+"264b": "Top Shelf Productions,",
+"010a": "  2013218903",
+"264c": 
+
+        [
+            "[2013]",
+            "©2013"
+        ],
+        "042a": "pcc",
+        "050a": "E840.8.L43",
+        "050b": "A3 2013",
+        "082a": "741.5",
+        "090a": "E840.8.L43",
+        "090b": "L48 2013",
+        "0162": "Uk"
+    }
+
+},
+"22": 
+{
+
+    "holding_libs": 
+
+[
+
+    "SCH",
+    "WID",
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Chast, Roz Family.",
+    "Chast, Roz Family Comic books, strips, etc.",
+    "Adult children of aging parents Family relationships United States.",
+    "Aging parents Family relationships United States.",
+    "Aging parents Care United States.",
+    "Cartoonists United States Biography.",
+    "Adult children of aging parents Family relationships United States Comic books, strips, etc.",
+    "Aging parents Family relationships United States Comic books, strips, etc.",
+    "Aging parents Care United States Comic books, strips, etc.",
+    "Cartoonists United States Biography Comic books, strips, etc.",
+    "Wit and humor, Pictorial.",
+    "Comic books, strips, etc.",
+    "Adult Children Humor.",
+    "Aged Humor.",
+    "Aging Humor.",
+    "Family Relations Humor.",
+    "Parent-Child Relations Humor.",
+    "Graphic novels.",
+    "Graphic novels United States.",
+    "Aged Comic books, strips, etc.",
+    "Wit and humor, Pictorial.",
+    "Comic books, strips, etc.",
+    "Graphic novels.",
+    "Graphic novels United States."
+
+],
+"pages_numeric": 228,
+"score_holding_libs": 3,
+"sub_title": "[a memoir]",
+"id_isbn": 
+[
+
+    "9781608198061",
+    "1608198065"
+
+],
+"id": "4A65116D-C87F-A755-B455-EE515D160DCC",
+"collection": "hollis_catalog",
+"title_sort": "Can't we talk about something more pleasant?",
+"call_num": 
+[
+
+    "NC1429.C525 A3 2014",
+    "NC1429.C525 A4 2014"
+
+],
+"score_checkouts_undergrad": 1,
+"height": "25 cm",
+"title_link_friendly": "cant-we-talk-about-something-more",
+"creator": 
+[
+
+    "Chast, Roz."
+
+],
+"pub_date": "2014",
+"loc_call_num_subject": 
+[
+
+    "Fine arts -- Drawing. Design. Illustration -- Caricature. Pictorial humor and satire -- History -- Special regions or countries -- United States",
+    "Fine arts -- Drawing. Design. Illustration -- Caricature. Pictorial humor and satire -- History -- Special regions or countries -- United States"
+
+],
+"pages": "228 pages",
+"loc_call_num_sort_order": 
+[
+
+    7018629,
+    7018633
+
+],
+"score_checkouts_fac": 2,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 3,
+"shelfrank": 2,
+"title": "Can't we talk about something more pleasant?",
+"language": "English",
+"id_inst": "014003058",
+"id_oclc": "ocn860395376",
+"note": 
+[
+
+    "Subtitle from cover",
+    "In her first memoir, Roz Chast brings her signature wit to the topic of aging parents. Spanning the last several years of their lives and told through a mixture of cartoons, family photos, documents, and a narrative as rife with laughs as it is with tears, Chast's memoir is both comfort and comic relief for anyone experiencing the life-altering loss of elderly parents. When it came to her elderly mother and father, Roz held to the practices of denial, avoidance, and distraction. But when Elizabeth Chast climbed a ladder to locate an old souvenir from the \"crazy closet\"--with predictable results--the tools that had served Roz well through her parents' seventies, eighties, and into their early nineties could no longer be deployed. While the particulars are Chast-ian in their idiosyncrasies--an anxious father who had relied heavily on his wife for stability as he slipped into dementia and a former assistant principal mother whose overbearing personality had sidelined Roz for decades--the themes are universal: adult children accepting a parental role; aging and unstable parents leaving a family home for an institution; dealing with uncomfortable physical intimacies; managing logistics; and hiring strangers to provide the most personal care"
+
+],
+"height_numeric": 25,
+"format": "Book",
+"pub_date_numeric": 2014,
+"source_record": 
+{
+
+    "600v": "Comic books, strips, etc.",
+    "600x": 
+
+[
+
+    "Family.",
+    "Family"
+
+],
+"988a": "20140412",
+"899a": 
+[
+
+    "415_565185",
+    "415_565459"
+
+],
+"338a": "volume",
+"500a": "Subtitle from cover.",
+"520a": "In her first memoir, Roz Chast brings her signature wit to the topic of aging parents. Spanning the last several years of their lives and told through a mixture of cartoons, family photos, documents, and a narrative as rife with laughs as it is with tears, Chast's memoir is both comfort and comic relief for anyone experiencing the life-altering loss of elderly parents. When it came to her elderly mother and father, Roz held to the practices of denial, avoidance, and distraction. But when Elizabeth Chast climbed a ladder to locate an old souvenir from the \"crazy closet\"--with predictable results--the tools that had served Roz well through her parents' seventies, eighties, and into their early nineties could no longer be deployed. While the particulars are Chast-ian in their idiosyncrasies--an anxious father who had relied heavily on his wife for stability as he slipped into dementia and a former assistant principal mother whose overbearing personality had sidelined Roz for decades--the themes are universal: adult children accepting a parental role; aging and unstable parents leaving a family home for an institution; dealing with uncomfortable physical intimacies; managing logistics; and hiring strangers to provide the most personal care.",
+"245a": "Can't we talk about something more pleasant? :",
+"245b": "[a memoir] /",
+"035a": "ocn860395376",
+"245c": "Roz Chast.",
+"100a": "Chast, Roz,",
+"9060": "OCLC",
+"043a": "n-us---",
+"100e": 
+[
+
+    "author,",
+    "illustrator."
+
+],
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"505a": "The beginning of the end -- Return to the fold -- The elder lawyer -- Galapagos -- The fall -- Maimouides -- Sundowning -- The end of an era -- The move -- the old apartment -- The place -- The next step -- Kleenex abounding -- Postmortem -- Elizabeth, alone -- Bedtime stories -- Chrysalis -- The end.",
+"650a": 
+[
+
+    "Adult children of aging parents",
+    "Aging parents",
+    "Aging parents",
+    "Cartoonists",
+    "Adult children of aging parents",
+    "Aging parents",
+    "Aging parents",
+    "Cartoonists",
+    "Wit and humor, Pictorial.",
+    "Comic books, strips, etc.",
+    "Adult Children",
+    "Aged",
+    "Aging",
+    "Family Relations",
+    "Parent-Child Relations",
+    "Graphic novels.",
+    "Graphic novels",
+    "Aged"
+
+],
+"020a": 
+[
+
+    "9781608198061 :",
+    "1608198065 :"
+
+],
+"250a": "First U.S. edition.",
+"020c": 
+[
+
+    "$28.00",
+    "$28.00"
+
+],
+"040a": "YDXCP",
+"040b": "eng",
+"040c": "YDXCP",
+"040d": 
+[
+
+    "BTCTA",
+    "BDX",
+    "WIM",
+    "ZQP",
+    "MLY",
+    "CO2",
+    "COU",
+    "VP@",
+    "YW6",
+    "OCLCO"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"650v": 
+[
+
+    "Biography.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc.",
+    "Biography",
+    "Comic books, strips, etc.",
+    "Humor.",
+    "Humor.",
+    "Humor.",
+    "Humor.",
+    "Humor.",
+    "Comic books, strips, etc."
+
+],
+"650x": 
+[
+
+    "Family relationships",
+    "Family relationships",
+    "Care",
+    "Family relationships",
+    "Family relationships",
+    "Care"
+
+],
+"toc": "The beginning of the end -- Return to the fold -- The elder lawyer -- Galapagos -- The fall -- Maimouides -- Sundowning -- The end of an era -- The move -- the old apartment -- The place -- The next step -- Kleenex abounding -- Postmortem -- Elizabeth, alone -- Bedtime stories -- Chrysalis -- The end",
+"0822": "23",
+"650z": 
+[
+
+    "United States.",
+    "United States.",
+    "United States.",
+    "United States",
+    "United States",
+    "United States",
+    "United States",
+    "United States",
+    "United States."
+
+],
+"655a": 
+[
+
+    "Wit and humor, Pictorial.",
+    "Comic books, strips, etc.",
+    "Graphic novels.",
+    "Graphic novels"
+
+],
+"336a": 
+[
+
+    "text",
+    "still imagetext"
+
+],
+"300a": "228 pages :",
+"300b": "illustrations (chiefly color) ;",
+"300c": "25 cm",
+"score_total": "4",
+"3382": "rdacarrier",
+"655z": "United States.",
+"337a": "unmediated",
+"600a": 
+[
+
+    "Chast, Roz",
+    "Chast, Roz"
+
+],
+"264a": "New York :",
+"264b": "Bloomsbury,",
+"264c": "2014.",
+"050a": "NC1429.C525",
+"050b": "A3 2014",
+"082a": 
+
+        [
+            "741.5/6973092",
+            "B"
+        ]
+    }
+
+},
+"23": 
+{
+
+    "holding_libs": 
+
+[
+
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Deadpool (Fictitious character) Comic books, strips, etc.",
+    "Soldiers of fortune Fiction Comic books, strips, etc.",
+    "Superhero comic books, strips, etc.",
+    "Graphic novels.",
+    "Science fiction comic books, strips, etc."
+
+],
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "0785190309",
+    "9780785190301"
+
+],
+"id": "C8F815A2-033A-80D6-FDBB-5645232B16BA",
+"collection": "hollis_catalog",
+"call_num": 
+[
+
+    "PN6728.D3574 B86 2014"
+
+],
+"title_sort": "Deadpool minibus",
+"score_checkouts_undergrad": 1,
+"height": "29 cm",
+"title_link_friendly": "deadpool-minibus",
+"creator": 
+[
+
+    "Bunn, Cullen.",
+    "Talajic, Dalibor, artist.",
+    "Espin, Salva, artist.",
+    "Rosanas, Ramon, artist."
+
+],
+"pub_date": "2014",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pages": "1 volume (unpaged)",
+"loc_call_num_sort_order": 
+[
+
+    8405504
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Deadpool minibus",
+"language": "English",
+"id_inst": "014171975",
+"id_oclc": "ocn874224094",
+"note": 
+[
+
+    "Artists: Dalibor Talajić, Salva Espin, and Ramon Rosanas.",
+    "Contains materials originally published in magazine form as Deadpool kills the universe #1-4, Deadpool kills Deadpool #1-4, Night of the living Deadpool #1-4 and Deadpool vs. Carnage #1-4",
+    "It all begins with a tale we could only call Deadpool kills the Marvel Universe. (Spoilers!) Imagine a world in which a deadly new voice pipes up inside Wade Wilson's head. A voice that drives him to murder every other costumed hero and villain -- even the really popular ones, with actual movies! But this Deadpoll's bloodlust doesn't stop there. Not when the Ideaverse is full of the fabled icons of classic literature -- you know, the ones your parents read about in books. And not when there are muiltiple realities, boasting every possible version of himself. A veritable Deadpool-a-palooza. Infinite mercs, with infinite mouths. Before this Deadpool's work is done, every one of them must be silenced -- permanently! If that killogy of chaos isn't enough for you, how about the walking Deadpool as the last hero standing in a zombie apocalypse! And what's read and black with dead all over? Deadpool vs. Carnage, that's what!"
+
+],
+"height_numeric": 29,
+"format": "Book",
+"pub_date_numeric": 2014,
+"source_record": 
+{
+
+    "988a": "20140925",
+    "899a": "415_565185",
+    "338a": "volume",
+    "338b": "nc",
+    "500a": 
+
+[
+
+    "Artists: Dalibor Talajić, Salva Espin, and Ramon Rosanas.",
+    "Contains materials originally published in magazine form as Deadpool kills the universe #1-4, Deadpool kills Deadpool #1-4, Night of the living Deadpool #1-4 and Deadpool vs. Carnage #1-4."
+
+],
+"015a": "GBB471471",
+"520a": "It all begins with a tale we could only call Deadpool kills the Marvel Universe. (Spoilers!) Imagine a world in which a deadly new voice pipes up inside Wade Wilson's head. A voice that drives him to murder every other costumed hero and villain -- even the really popular ones, with actual movies! But this Deadpoll's bloodlust doesn't stop there. Not when the Ideaverse is full of the fabled icons of classic literature -- you know, the ones your parents read about in books. And not when there are muiltiple realities, boasting every possible version of himself. A veritable Deadpool-a-palooza. Infinite mercs, with infinite mouths. Before this Deadpool's work is done, every one of them must be silenced -- permanently! If that killogy of chaos isn't enough for you, how about the walking Deadpool as the last hero standing in a zombie apocalypse! And what's read and black with dead all over? Deadpool vs. Carnage, that's what!",
+"245a": "Deadpool minibus /",
+"035a": "ocn874224094",
+"100a": "Bunn, Cullen,",
+"245c": "writer, Cullen Bunn.",
+"9060": "OCLC",
+"100e": "author.",
+"6552": 
+[
+
+    "gsafd",
+    "gsafd"
+
+],
+"3362": "rdacontent",
+"016a": "016783909",
+"650a": 
+[
+
+    "Deadpool (Fictitious character)",
+    "Soldiers of fortune"
+
+],
+"020a": 
+[
+
+    "0785190309",
+    "9780785190301"
+
+],
+"040a": "YDXCP",
+"040b": "eng",
+"040c": "YDXCP",
+"040d": 
+[
+
+    "BDX",
+    "BTCTA",
+    "UKMGB",
+    "GO3"
+
+],
+"040e": "rda",
+"3372": "rdamedia",
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Fiction",
+    "Comic books, strips, etc."
+
+],
+"0822": "23",
+"700a": 
+[
+
+    "Talajic, Dalibor,",
+    "Espin, Salva,",
+    "Rosanas, Ramon,"
+
+],
+"655a": 
+[
+
+    "Superhero comic books, strips, etc.",
+    "Graphic novels.",
+    "Science fiction comic books, strips, etc."
+
+],
+"336a": "text",
+"049a": "HLSS",
+"336b": "txt",
+"700e": 
+
+        [
+            "artist.",
+            "artist.",
+            "artist."
+        ],
+        "300a": "1 volume (unpaged) :",
+        "300b": "chiefly illustrations (mostly color) ;",
+        "300c": "29 cm",
+        "score_total": "1",
+        "3382": "rdacarrier",
+        "0152": "bnb",
+        "337a": "unmediated",
+        "337b": "n",
+        "264a": "New York, NY :",
+        "264b": "Marvel Worldwide, Inc.,",
+        "264c": "[2014]",
+        "050a": "PN6728.D3574",
+        "050b": "B86 2014",
+        "082a": "741.5973",
+        "0162": "Uk"
+    }
+
+},
+"26": 
+{
+
+    "holding_libs": 
+
+[
+
+    "HYL"
+
+],
+"lcsh": 
+[
+
+    "Rhee, Syngman, 1875-1965 Comic books, strips, etc.",
+    "Kim, Dae Jung, 1925-2009 Comic books, strips, etc.",
+    "Graphic novels Korea (South).",
+    "Korea (South) Politics and government Comic books, strips, etc."
+
+],
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9788993949698",
+    "8993949697"
+
+],
+"id": "3060DC8E-0785-3369-47FF-0A91B12D3866",
+"collection": "hollis_catalog",
+"call_num": 
+[
+
+    "DS917.35 .I44 2014"
+
+],
+"title_sort": "Iijei ŭi manhwa Han'guk hyŏndaesa",
+"height": "23 cm",
+"title_link_friendly": "iijei-i-manhwa-hanguk-hyndaesa",
+"creator": 
+[
+
+    "Kim, Sŏn-ung, 1981-"
+
+],
+"pub_date": "2014",
+"loc_call_num_subject": 
+[
+
+    "World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Asia -- Korea -- History -- By period -- 20th century -- 1945- -- Political history"
+
+],
+"pages": "volume <1- >",
+"loc_call_num_sort_order": 
+[
+
+    2759220
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Iijei ŭi manhwa Han'guk hyŏndaesa",
+"language": "Korean (use for related lang. and dial.)",
+"id_inst": "014228089",
+"id_oclc": "ocn905904557",
+"note": 
+[
+
+    "Based on the Iijei Podcast"
+
+],
+"height_numeric": 23,
+"format": "Book",
+"pub_date_numeric": 2014,
+"source_record": 
+{
+
+    "7876": "880-06",
+    "600v": 
+
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"2466": "880-03",
+"8806": 
+[
+
+    "100-01",
+    "245-02",
+    "246-03",
+    "250-04",
+    "264-05",
+    "505-00",
+    "653-00",
+    "787-06"
+
+],
+"988a": "20141112",
+"899a": "415_565278",
+"338a": "volume",
+"2506": "880-04",
+"338b": "nc",
+"500a": "Based on the Iijei Podcast.",
+"245a": "Iijei ŭi manhwa Han'guk hyŏndaesa /",
+"035a": "ocn905904557",
+"100a": "Kim, Sŏn-ung,",
+"245c": "wŏnjak Iijei ; kŭl kŭrim Kupsinisŭt'ŭ.",
+"9060": "MH",
+"043a": "a-ko---",
+"100d": "1981-",
+"100e": 
+[
+
+    "author,",
+    "illustrator."
+
+],
+"3362": 
+[
+
+    "rdacontent",
+    "rdacontent"
+
+],
+"505a": "v. 1. Kkangp'ae ŭi t'ansaeng, Yi Sŭng-man put'ŏ Kim Tae-jung kkaji taesŏn chŏnjaeng",
+"246a": "Manhwa Han'guk hyŏndaesa",
+"650a": "Graphic novels",
+"880a": 
+[
+
+    "김선웅,",
+    "이이제이의만화한국현대사 /",
+    "만화한국현대사",
+    "초판.",
+    "서울 :",
+    "v. 1. 깡패의탄생, 이승만부터김대중까지대선전쟁",
+    "만화"
+
+],
+"880b": "왕의서재,",
+"880c": 
+[
+
+    "원작이이제이 ; 글그림굽시니스트.",
+    "2014-"
+
+],
+"787i": "Graphic novelization of (work):",
+"020a": 
+[
+
+    "9788993949698 (v. 1)",
+    "8993949697 (v. 1)"
+
+],
+"880d": "1981-",
+"250a": "Ch'op'an.",
+"880e": 
+[
+
+    "author,",
+    "illustrator."
+
+],
+"040a": "HMY",
+"040b": "eng",
+"040c": "HMY",
+"040d": "HMY",
+"880i": "Graphic novelization of (work):",
+"040e": "rda",
+"3372": "rdamedia",
+"787t": "Iijei (Podcast)",
+"880t": "이이제이 (Podcast)",
+"2646": "880-05",
+"toc": "v. 1. Kkangp'ae ŭi t'ansaeng, Yi Sŭng-man put'ŏ Kim Tae-jung kkaji taesŏn chŏnjaeng",
+"650z": "Korea (South)",
+"336a": 
+[
+
+    "still image",
+    "text"
+
+],
+"049a": "HMYY",
+"336b": 
+[
+
+    "sti",
+    "txt"
+
+],
+"300a": "volume <1- > :",
+"651a": "Korea (South)",
+"300b": "color illustrations ;",
+"300c": "23 cm",
+"3382": "rdacarrier",
+"2456": "880-02",
+"651v": "Comic books, strips, etc.",
+"1006": "880-01",
+"651x": "Politics and government",
+"337a": "unmediated",
+"600a": 
+[
+
+    "Rhee, Syngman,",
+    "Kim, Dae Jung,"
+
+],
+"337b": "n",
+"600d": 
+
+        [
+            "1875-1965",
+            "1925-2009"
+        ],
+        "264a": "Sŏul :",
+        "264b": "Wang ŭi Sŏjae,",
+        "264c": "2014-",
+        "050a": "DS917.35",
+        "050b": ".I44 2014"
+    }
+
+},
+"27": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Batman (Fictitious character) Comic books, strips, etc.",
+    "Science fiction comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "1401200613",
+    "1401200923",
+    "1401200605"
+
+],
+"id": "EA0EF62A-D92D-E21F-1BCB-8EBE019B3A1C",
+"collection": "hollis_catalog",
+"title_sort": "Batman",
+"call_num": 
+[
+
+    "PN6728.B36 L637 2003"
+
+],
+"score_checkouts_undergrad": 18,
+"height": "27 cm",
+"title_link_friendly": "batman",
+"creator": 
+[
+
+    "Loeb, Jeph."
+
+],
+"pub_date": "2003",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pub_location": "New York",
+"pages": "2 v",
+"id_lccn": "2004272727",
+"loc_call_num_sort_order": 
+[
+
+    8405356
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 2,
+"shelfrank": 8,
+"title": "Batman",
+"language": "English",
+"id_inst": "009616681",
+"id_oclc": "ocm52385189",
+"note": 
+[
+
+    "Originally published in single magazine form as Batman 608-<619>"
+
+],
+"height_numeric": 27,
+"format": "Book",
+"publisher": "DC Comics",
+"pub_date_numeric": 2003,
+"source_record": 
+{
+
+    "988a": "20050428",
+    "500a": "Originally published in single magazine form as Batman 608-<619>.",
+    "245a": "Batman.",
+    "035a": 
+
+[
+
+    "ocm52385189",
+    "ocm57652462"
+
+],
+"100a": "Loeb, Jeph.",
+"245c": "Jeph Loeb, writer ; Jim Lee, penciller ; Scott Williams, inker ; Richard Starkings, letterer ; Alex Sinclair, colorist ; Jim Lee & Scott Williams, original series covers ; Batman created by Bob Kane.",
+"9060": "OCLC",
+"245p": "Hush /",
+"246a": "Hush",
+"650a": 
+[
+
+    "Batman (Fictitious character)",
+    "Science fiction comic books, strips, etc."
+
+],
+"020a": 
+
+        [
+            "1401200613 (v. 1)",
+            "1401200923 (v. 2)",
+            "1401200605 (v. 1)"
+        ],
+        "040a": "IG#",
+        "040c": "IG#",
+        "040d": "DLC",
+        "650v": "Comic books, strips, etc.",
+        "0822": "22",
+        "655a": "Comic books, strips, etc.",
+        "300a": "2 v. :",
+        "300b": "chiefly col. ill. ;",
+        "300c": "27 cm.",
+        "score_total": "12",
+        "010a": "  2004272727",
+        "042a": "lccopycat",
+        "260a": "New York :",
+        "260b": "DC Comics,",
+        "050a": "PN6728.B36",
+        "260c": "c2003.",
+        "050b": "L637 2003",
+        "082a": "741.5/973"
+    }
+
+},
+"28": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Women Japan Fiction.",
+    "Motherhood Japan Fiction.",
+    "Families Japan Fiction.",
+    "Graphic novel."
+
+],
+"pages_numeric": 248,
+"score_holding_libs": 1,
+"id_isbn": 
+[
+
+    "9784770030887",
+    "4770030886"
+
+],
+"id": "26A3B827-46AB-29CF-C6A9-DAA2934C58F9",
+"collection": "hollis_catalog",
+"title_sort": "eighth day",
+"call_num": 
+[
+
+    "PL872.5.A3 Y6513 2010"
+
+],
+"height": "27 cm",
+"title_link_friendly": "the-eighth-day",
+"creator": 
+[
+
+    "Kakuta, Mitsuyo, 1967-",
+    "Mitsutani, Margaret."
+
+],
+"pub_date": "2010",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Languages of Eastern Asia, Africa, Oceania -- Japanese language and literature -- Japanese literature -- Individual authors and works -- Heisei period, 1989- -- K"
+
+],
+"pub_location": "Tokyo",
+"pages": "248 p",
+"id_lccn": "2009037391",
+"loc_call_num_sort_order": 
+[
+
+    7960723
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "The eighth day",
+"language": "English",
+"id_inst": "012542407",
+"id_oclc": "ocn436866959",
+"note": 
+[
+
+    "Originally published in Japanese in 2007 by Chuokoron Shinsha, Tokyo, under the title Yokame no semi. --T.p. verso"
+
+],
+"height_numeric": 27,
+"format": "Book",
+"publisher": "Kodansha International",
+"pub_date_numeric": 2010,
+"source_record": 
+{
+
+    "0842": "njb/9",
+    "988a": "20100803",
+    "899a": "415_565906",
+    "500a": "Originally published in Japanese in 2007 by Chuokoron Shinsha, Tokyo, under the title Yokame no semi. --T.p. verso.",
+    "015a": "GBA9C6155",
+    "245a": "The eighth day /",
+    "035a": "ocn436866959",
+    "245c": "Mitsuyo Kakuta ; translated by Margaret Mitsutani.",
+    "100a": "Kakuta, Mitsuyo,",
+    "9060": "DLC",
+    "100d": "1967-",
+    "016a": "015449175",
+    "650a": 
+
+[
+
+    "Women",
+    "Motherhood",
+    "Families"
+
+],
+"020a": 
+[
+
+    "9784770030887",
+    "4770030886"
+
+],
+"250a": "1st ed.",
+"040a": "DLC",
+"084a": "913.6",
+"040c": "DLC",
+"040d": 
+[
+
+    "UKM",
+    "YDXCP",
+    "TRCLS",
+    "C#P",
+    "BWX",
+    "CDX"
+
+],
+"650v": 
+[
+
+    "Fiction.",
+    "Fiction.",
+    "Fiction."
+
+],
+"0822": "22",
+"650z": 
+[
+
+    "Japan",
+    "Japan",
+    "Japan"
+
+],
+"700a": "Mitsutani, Margaret.",
+"655a": "Graphic novel.",
+"049a": "HLSS",
+"300a": "248 p. ;",
+"300c": "27 cm.",
+"041a": "eng",
+"041h": "jpn",
+"0152": "bnb",
+"010a": "  2009037391",
+"240a": "Yōkame no semi.",
+"260a": 
+
+        [
+            "Tokyo ;",
+            "New York :"
+        ],
+        "260b": "Kodansha International,",
+        "050a": "PL872.5.A3",
+        "260c": "2010.",
+        "050b": "Y6513 2010",
+        "082a": "895.6/36",
+        "0162": "Uk",
+        "240l": "English"
+    }
+
+},
+"29": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID",
+    "SCH"
+
+],
+"lcsh": 
+[
+
+    "Teenage girls Comic books, strips, etc.",
+    "Suburban life Comic books, strips, etc.",
+    "Friendship Comic books, strips, etc.",
+    "Schools Comic books, strips, etc.",
+    "Female friendship Comic books, strips, etc.",
+    "Street art Comic books, strips, etc.",
+    "Graphic novels."
+
+],
+"pages_numeric": 151,
+"score_holding_libs": 2,
+"id_isbn": 
+[
+
+    "9781401213879",
+    "1401213871"
+
+],
+"id": "A2ADE010-5687-1007-59FD-E2C3D03D3B49",
+"collection": "hollis_catalog",
+"title_sort": "Janes in love",
+"call_num": 
+[
+
+    "PN6727.C389 J36 2009"
+
+],
+"height": "21 cm",
+"title_link_friendly": "janes-in-love",
+"creator": 
+[
+
+    "Castellucci, Cecil, 1969-",
+    "Rugg, Jim."
+
+],
+"pub_date": "2008",
+"loc_call_num_subject": 
+[
+
+    "Language and literature -- Collections of general literature -- Comic books, strips, etc. -- By region or country -- United States"
+
+],
+"pub_location": "New York, N.Y.",
+"pages": "151 p",
+"loc_call_num_sort_order": 
+[
+
+    8404220
+
+],
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Janes in love",
+"language": "English",
+"id_inst": "011755791",
+"id_oclc": "ocn181600017",
+"note": 
+[
+
+    "Sequel to: The plain Janes",
+    "The adventures of The Plain James continue in the second graphic novel of the series. The coolest clique of misfits plays cupid and becomes entangled in affairs of the heart. P.L.A.I.N., People Loving Art In Neighborhoods, goes global once the art gang applies for a grant from the National Foundation for the Arts. And the Janes will discover that in art and love, general rules don't often apply"
+
+],
+"height_numeric": 21,
+"format": "Book",
+"publisher": "DC Comics",
+"pub_date_numeric": 2008,
+"source_record": 
+{
+
+    "988a": "20081129",
+    "500a": "Sequel to: The plain Janes.",
+    "520a": "The adventures of The Plain James continue in the second graphic novel of the series. The coolest clique of misfits plays cupid and becomes entangled in affairs of the heart. P.L.A.I.N., People Loving Art In Neighborhoods, goes global once the art gang applies for a grant from the National Foundation for the Arts. And the Janes will discover that in art and love, general rules don't often apply.",
+    "245a": "Janes in love /",
+    "035a": "ocn181600017",
+    "100a": "Castellucci, Cecil,",
+    "245c": "by Cecil Castellucci and Jim Rugg ; with lettering by Rob Clark Jr. and gray tones by Jasen Lex.",
+    "9060": "OCLC",
+    "100d": "1969-",
+    "650a": 
+
+[
+
+    "Teenage girls",
+    "Suburban life",
+    "Friendship",
+    "Schools",
+    "Female friendship",
+    "Street art",
+    "Graphic novels."
+
+],
+"020a": 
+[
+
+    "9781401213879 :",
+    "1401213871 :"
+
+],
+"020c": 
+[
+
+    "$9.99",
+    "$9.99"
+
+],
+"040a": "BTCTA",
+"040c": "BTCTA",
+"040d": 
+[
+
+    "BAKER",
+    "YDXCP",
+    "OCO",
+    "VP@"
+
+],
+"650v": 
+
+        [
+            "Comic books, strips, etc.",
+            "Comic books, strips, etc.",
+            "Comic books, strips, etc.",
+            "Comic books, strips, etc.",
+            "Comic books, strips, etc.",
+            "Comic books, strips, etc."
+        ],
+        "700a": "Rugg, Jim.",
+        "300a": "151 p. :",
+        "300b": "chiefly ill. ;",
+        "300c": "21 cm.",
+        "score_total": "1",
+        "260a": "[New York, N.Y.] :",
+        "050a": "PN6727.C389",
+        "260b": "DC Comics,",
+        "050b": "J36 2009",
+        "260c": "c2008."
+    }
+
+},
+"30": 
+{
+
+    "holding_libs": 
+
+[
+
+    "WID"
+
+],
+"lcsh": 
+[
+
+    "Mansah, Abina Trials, litigation, etc. Comic books, strips, etc.",
+    "Slavery Law and legislation Ghana History 19th century Comic books, strips, etc.",
+    "Women slaves Ghana History 19th century Comic books, strips, etc."
+
+],
+"pages_numeric": 179,
+"score_holding_libs": 1,
+"sub_title": "a graphic history",
+"id_isbn": 
+[
+
+    "9780199844395",
+    "0199844399"
+
+],
+"id": "110AEF61-2734-89ED-28BB-CA34A990E716",
+"collection": "hollis_catalog",
+"title_sort": "Abina and the important men",
+"call_num": 
+[
+
+    "KRX46.M36 G48 2012"
+
+],
+"height": "26 cm",
+"title_link_friendly": "abina-and-the-important-men",
+"creator": 
+[
+
+    "Getz, Trevor R.",
+    "Clarke, Liz.",
+    "Clarke, Liz (Illustrator)."
+
+],
+"score_checkouts_grad": 1,
+"pub_date": "2012",
+"loc_call_num_subject": 
+[
+
+    "Law -- Africa: Ghana -- General"
+
+],
+"pub_location": "New York",
+"pages": "xix, 179 p",
+"id_lccn": "2011031033",
+"loc_call_num_sort_order": 
+[
+
+    6034821
+
+],
+"score_checkouts_fac": 1,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"shelfrank": 1,
+"title": "Abina and the important men",
+"language": "English",
+"id_inst": "013177654",
+"id_oclc": "(PromptCat)999485162",
+"note": 
+[
+
+    "This is an illustrated \"graphic history\" based on an 1876 court transcript of a West African woman named Abina, who was wrongfully enslaved and took her case to court. The main scenes of the story take place in the courtroom, where Abina strives to convince a series of \"important men\"-- a British judge, two Euro-African attorneys, a wealthy African country \"gentleman,\" and a jury of local leaders --that her rights matter"
+
+],
+"height_numeric": 26,
+"format": "Book",
+"publisher": "Oxford University Press",
+"pub_date_numeric": 2012,
+"source_record": 
+{
+
+    "600v": "Comic books, strips, etc.",
+    "600x": "Trials, litigation, etc.",
+    "988a": "20120507",
+    "899a": "415_565121",
+    "520a": "This is an illustrated \"graphic history\" based on an 1876 court transcript of a West African woman named Abina, who was wrongfully enslaved and took her case to court. The main scenes of the story take place in the courtroom, where Abina strives to convince a series of \"important men\"-- a British judge, two Euro-African attorneys, a wealthy African country \"gentleman,\" and a jury of local leaders --that her rights matter.",
+    "245a": "Abina and the important men :",
+    "245b": "a graphic history /",
+    "035a": 
+
+[
+
+    "(PromptCat)99948516220",
+    "ocn743432533"
+
+],
+"245c": "Trevor R. Getz, Liz Clarke.",
+"100a": "Getz, Trevor R.",
+"9060": "OCLC",
+"043a": "f-gh---",
+"505a": "The graphic history. Abina awakes -- The breaking of the beads -- The truth -- Life at Quamina Eddoo's house -- He did nothing good for me -- Abina silenced, Abina redeemed -- The Transcript -- Historical context. The Gold Coast, ca. 1876 -- The British civilizing mission -- The civilizing mission in the Gold Coast -- Slavery in the Gold Coast -- The Atlantic slave trade and abolition -- Abina Mansah and the important men -- Reading guide. Whose story is this? -- Is this a \"true\" story? -- Is this \"authentic\" history? -- Abina in the classroom. Abina for the world history classroom -- Abina for the African history/African studies classroom -- Abina and colonialism -- Abina and the history of slavery -- Gendering Abina's story.",
+"650a": 
+[
+
+    "Slavery",
+    "Women slaves"
+
+],
+"020a": 
+[
+
+    "9780199844395 (pbk. : alk. paper)",
+    "0199844399 (pbk. : alk. paper)"
+
+],
+"250a": "1st ed.",
+"040a": "IEN/DLC",
+"040b": "eng",
+"040c": "DLC",
+"040d": 
+[
+
+    "CDX",
+    "YDXCP",
+    "COD",
+    "BWX",
+    "BDX"
+
+],
+"650v": 
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"650x": 
+[
+
+    "Law and legislation",
+    "History",
+    "History"
+
+],
+"650y": 
+[
+
+    "19th century",
+    "19th century"
+
+],
+"toc": "The graphic history. Abina awakes -- The breaking of the beads -- The truth -- Life at Quamina Eddoo's house -- He did nothing good for me -- Abina silenced, Abina redeemed -- The Transcript -- Historical context. The Gold Coast, ca. 1876 -- The British civilizing mission -- The civilizing mission in the Gold Coast -- Slavery in the Gold Coast -- The Atlantic slave trade and abolition -- Abina Mansah and the important men -- Reading guide. Whose story is this? -- Is this a \"true\" story? -- Is this \"authentic\" history? -- Abina in the classroom. Abina for the world history classroom -- Abina for the African history/African studies classroom -- Abina and colonialism -- Abina and the history of slavery -- Gendering Abina's story",
+"0822": "23",
+"650z": 
+[
+
+    "Ghana",
+    "Ghana"
+
+],
+"700a": 
+
+        [
+            "Clarke, Liz.",
+            "Clarke, Liz"
+        ],
+        "700c": "(Illustrator)",
+        "300a": "xix, 179 p. :",
+        "300b": "ill. (chiefly col.) ;",
+        "300c": "26 cm.",
+        "score_total": "1",
+        "600a": "Mansah, Abina",
+        "010a": "  2011031033",
+        "042a": "pcc",
+        "260a": "New York :",
+        "260b": "Oxford University Press,",
+        "050a": "KRX46.M36",
+        "260c": "2012.",
+        "050b": "G48 2012",
+        "082a": "306.3/62092"
+    }
+
+},
+"31": 
+{
+
+    "holding_libs": 
+
+[
+
+    "HOU",
+    "WID",
+    "DIV",
+    "LAM"
+
+],
+"lcsh": 
+[
+
+    "Spiegelman, Art. Comic books, strips, etc.",
+    "Spiegelman, Vladek Comic books, strips, etc.",
+    "Holocaust, Jewish (1939-1945) Poland Biography Comic books, strips, etc.",
+    "Holocaust survivors United States Biography Comic books, strips, etc.",
+    "Children of Holocaust survivors United States Biography Comic books, strips, etc."
+
+],
+"pages_numeric": 159,
+"score_holding_libs": 4,
+"sub_title": "a survivor's tale : my father bleeds history",
+"id": "4389045A-F7A5-DA63-C5D6-A4160B3BF8F3",
+"collection": "hollis_catalog",
+"title_sort": "Maus I",
+"call_num": 
+[
+
+    "D804.3 .S65 1992",
+    "D810.J4 S643 1992"
+
+],
+"score_checkouts_undergrad": 45,
+"height": "23 cm",
+"title_link_friendly": "maus-i",
+"creator": 
+[
+
+    "Spiegelman, Art."
+
+],
+"score_checkouts_grad": 10,
+"pub_date": "1992",
+"loc_call_num_subject": 
+[
+
+    "World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History (General) -- World War II (1939-1945) -- Atrocities. War crimes -- Holocaust -- General works",
+    "World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History (General) -- World War II (1939-1945)"
+
+],
+"pub_location": "New York",
+"score_reserves": 8,
+"pages": "159 p",
+"loc_call_num_sort_order": 
+[
+
+    1557890,
+    1571935
+
+],
+"score_checkouts_fac": 10,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 13,
+"shelfrank": 40,
+"language": "English",
+"title": "Maus I",
+"id_inst": "002523703",
+"ut_count": 54249,
+"id_oclc": "ocm25454032",
+"note": 
+[
+
+    "Previously published as: Maus",
+    "Memoir about Vladek Spiegelman, a Jewish survivor of Hitler's Europe, and about his son, a cartoonist who tries to come to terms with his father, his story, and with history itself. The second volume follows the family's move from Auschwitz to the Catskills"
+
+],
+"height_numeric": 23,
+"format": "Book",
+"publisher": "Pantheon Books",
+"pub_date_numeric": 1992,
+"source_record": 
+{
+
+    "600x": 
+
+[
+
+    "Comic books, strips, etc.",
+    "Comic books, strips, etc."
+
+],
+"988a": "20020608",
+"010z": "   86042642 ",
+"500a": "Previously published as: Maus.",
+"520a": "Memoir about Vladek Spiegelman, a Jewish survivor of Hitler's Europe, and about his son, a cartoonist who tries to come to terms with his father, his story, and with history itself. The second volume follows the family's move from Auschwitz to the Catskills.",
+"245a": "Maus I :",
+"245b": "a survivor's tale : my father bleeds history /",
+"035a": "ocm25454032",
+"245c": "Art Spiegelman.",
+"100a": "Spiegelman, Art.",
+"9060": "MH",
+"043a": 
+[
+
+    "e-pl---",
+    "n-us---"
+
+],
+"505g": 
+[
+
+    "1 :",
+    "2 :",
+    "3 :",
+    "4 :",
+    "5 :",
+    "6 :"
+
+],
+"246a": 
+[
+
+    "Maus 1",
+    "Maus one",
+    "My father bleeds history"
+
+],
+"650a": 
+[
+
+    "Holocaust, Jewish (1939-1945)",
+    "Holocaust survivors",
+    "Children of Holocaust survivors"
+
+],
+"250a": "Rev. pbk. ed.",
+"020c": "$12.00",
+"040a": "HLS",
+"040c": "HLS",
+"505t": 
+[
+
+    "The Sheik --",
+    "The Honeymoon --",
+    "Prisoner of war --",
+    "The Noose tightens --",
+    "Mouse holes --",
+    "Mouse trap."
+
+],
+"650x": 
+[
+
+    "Biography",
+    "Comic books, strips, etc.",
+    "Biography",
+    "Comic books, strips, etc.",
+    "Biography",
+    "Comic books, strips, etc."
+
+],
+"toc": "1 : The Sheik -- 2 : The Honeymoon -- 3 : Prisoner of war -- 4 : The Noose tightens -- 5 : Mouse holes -- 6 : Mouse trap",
+"650z": 
+[
+
+    "Poland",
+    "United States",
+    "United States"
+
+],
+"700a": "Spiegelman, Art.",
+"776a": "Spiegelman, Art.",
+"776b": "Rev. pbk. ed.",
+"020z": "0394747232 (pbk.) :",
+"776d": "New York : Pantheon Books, 1992, ©1986",
+"586a": "Winner of the 1992 Pulitzer Prize.",
+"300a": "159 p. :",
+"300b": "chiefly ill. ;",
+"300c": "23 cm.",
+"776i": "Online version:",
+"score_total": "51",
+"700t": "Maus.",
+"776t": "Maus I.",
+"776w": "(OCoLC)604959901",
+"600a": 
+
+        [
+            "Spiegelman, Art.",
+            "Spiegelman, Vladek"
+        ],
+        "260a": "New York :",
+        "260b": "Pantheon Books,",
+        "050a": "D810.J4",
+        "260c": "1992, c1986.",
+        "050b": "S643 1992x",
+        "090a": "D810.J4",
+        "090b": "S643 1992x"
+    }
+
+},
+"33": 
+{
+
+    "holding_libs": 
+
+[
+
+    "DES"
+
+],
+"lcsh": 
+[
+
+    "Ingels, Bjarke.",
+    "BIG (firm).",
+    "BIG Bjarke Ingels Group Exhibitions.",
+    "BIG Bjarke Ingels Group Comic books, strips, etc. Exhibitions.",
+    "Architectural practice, International Denmark Exhibitions.",
+    "Architecture, Modern 21st century Exhibitions.",
+    "Architectural firms Denmark Exhibitions."
+
+],
+"pages_numeric": 397,
+"score_holding_libs": 1,
+"sub_title": "an archicomic on architectural evolution",
+"id_isbn": 
+[
+
+    "9783836520102",
+    "3836520109"
+
+],
+"id": "50222E76-EB2A-8CA2-CB33-E7B3C42819FC",
+"collection": "hollis_catalog",
+"title_sort": "Yes is more",
+"call_num": 
+[
+
+    "NA1223.B527 Y47 2010"
+
+],
+"score_checkouts_undergrad": 1,
+"height": "25 cm",
+"title_link_friendly": "yes-is-more",
+"creator": 
+[
+
+    "Ingels, Bjarke.",
+    "BIG Bjarke Ingels Group.",
+    "Dansk arkitekturcenter."
+
+],
+"score_checkouts_grad": 60,
+"pub_date": "2010",
+"loc_call_num_subject": 
+[
+
+    "Fine arts -- Architecture -- History -- Architecture of special countries -- Europe -- Scandinavia -- Denmark"
+
+],
+"pub_location": "Köln",
+"score_reserves": 1,
+"pages": "397 p",
+"loc_call_num_sort_order": 
+[
+
+    6886950
+
+],
+"score_checkouts_fac": 1,
+"data_source": "harvard_edu",
+"dataset_tag": "harvard_edu_catalog_bibs_1429434997",
+"score_recalls": 13,
+"shelfrank": 35,
+"title": "Yes is more",
+"language": "English",
+"id_inst": "012348160",
+"id_oclc": "ocn429021788",
+"note": 
+[
+
+    "Published on the occasion of the exhibition: Close up : BIG at the Danish Architecture Center in Copenhagen, Denmark, 21 February-31 May, 2009"
+
+],
+"height_numeric": 25,
+"format": "Book",
+"publisher": "Evergreen",
+"pub_date_numeric": 2010,
+"source_record": 
+{
+
+    "988a": "20100517",
+    "710a": 
+
+[
+
+    "BIG Bjarke Ingels Group.",
+    "Dansk arkitekturcenter."
+
+],
+"500a": "Published on the occasion of the exhibition: Close up : BIG at the Danish Architecture Center in Copenhagen, Denmark, 21 February-31 May, 2009.",
+"245a": "Yes is more :",
+"035a": "ocn429021788",
+"245b": "an archicomic on architectural evolution /",
+"245c": "[BIG Bjarke Ingels Group ; editor, Bjarke Ingels ; text, Bjarke Ingels].",
+"9060": "OCLC",
+"043a": "e-dk---",
+"505a": "Yes is more : a theory of evolution -- An archicomic -- Found in translation : people's building -- A welfairytale : Danish paviolion in Shanghai -- Learning from Lomborg : Little Denmark -- Urban tetris : the VM houses -- Vertical suburbia : the mountain -- Infinity loop : 8-house and little tower -- Sp[O]anish steps : Scala Tower -- Modular mania : Lego towers -- Scandinavian skyscraper : Escher Tower -- Bureaucratic beauty : Tøjhuset -- Urban integration : the Battery -- Baroque network : Vilnius World Trade Center I -- Baroque City upside down : Vilnius World Trade Center II -- The 7 oeaks of Azerbaijan : Zira Zero Island -- The big picture : superharbour -- Urban typography : Vejle houses -- Split personality : W Towers -- Twisted minds : the fan buildings -- Cadavre exquis : Holbæk harbour -- Swept under the carpet : maritime youth house -- To be and not to be : Danish Maritime Museum -- Color therapy : Helsingør Psychiatric Hospital -- Re-Squat : Sjakket Youth Club -- Swimming pool inside out : the Water Culture House -- Public proscenium : Stavanger Concert Hall -- National Bank stage of Iceland : Landsbanki -- Social infrastructure : Slussen -- Domus Pontus : the housing bridge -- Battlefield : The Cloverfield -- Marbled block : Holy Road -- Instant icon : The art cross -- Engineering without engines : Rødovre Tower -- Royal treatment : VMCP Hotel -- Sheikh chic : Leadership Tower -- Post-petroleum palace : the 5 pillars of Bawadi -- Big City -- Yes is more @ DAC -- My playground : Team Jiyo @ MTN -- Yes man.",
+"610a": 
+[
+
+    "BIG (firm)",
+    "BIG Bjarke Ingels Group",
+    "BIG Bjarke Ingels Group"
+
+],
+"650a": 
+[
+
+    "Architectural practice, International",
+    "Architecture, Modern",
+    "Architectural firms"
+
+],
+"020a": 
+[
+
+    "9783836520102",
+    "3836520109"
+
+],
+"040a": "BTCTA",
+"040c": "BTCTA",
+"040d": 
+[
+
+    "PUL",
+    "YBM",
+    "BUF",
+    "YDXCP",
+    "OSU"
+
+],
+"610v": 
+[
+
+    "Exhibitions.",
+    "Comic books, strips, etc.",
+    "Exhibitions."
+
+],
+"650v": 
+[
+
+    "Exhibitions.",
+    "Exhibitions.",
+    "Exhibitions."
+
+],
+"650y": "21st century",
+"toc": "Yes is more : a theory of evolution -- An archicomic -- Found in translation : people's building -- A welfairytale : Danish paviolion in Shanghai -- Learning from Lomborg : Little Denmark -- Urban tetris : the VM houses -- Vertical suburbia : the mountain -- Infinity loop : 8-house and little tower -- Sp[O]anish steps : Scala Tower -- Modular mania : Lego towers -- Scandinavian skyscraper : Escher Tower -- Bureaucratic beauty : Tøjhuset -- Urban integration : the Battery -- Baroque network : Vilnius World Trade Center I -- Baroque City upside down : Vilnius World Trade Center II -- The 7 oeaks of Azerbaijan : Zira Zero Island -- The big picture : superharbour -- Urban typography : Vejle houses -- Split personality : W Towers -- Twisted minds : the fan buildings -- Cadavre exquis : Holbæk harbour -- Swept under the carpet : maritime youth house -- To be and not to be : Danish Maritime Museum -- Color therapy : Helsingør Psychiatric Hospital -- Re-Squat : Sjakket Youth Club -- Swimming pool inside out : the Water Culture House -- Public proscenium : Stavanger Concert Hall -- National Bank stage of Iceland : Landsbanki -- Social infrastructure : Slussen -- Domus Pontus : the housing bridge -- Battlefield : The Cloverfield -- Marbled block : Holy Road -- Instant icon : The art cross -- Engineering without engines : Rødovre Tower -- Royal treatment : VMCP Hotel -- Sheikh chic : Leadership Tower -- Post-petroleum palace : the 5 pillars of Bawadi -- Big City -- Yes is more @ DAC -- My playground : Team Jiyo @ MTN -- Yes man",
+"650z": 
+
+                [
+                    "Denmark",
+                    "Denmark"
+                ],
+                "700a": "Ingels, Bjarke.",
+                "049a": "FLLM",
+                "300a": "397 p. :",
+                "300b": "ill. (some col.) ;",
+                "300c": "25 cm.",
+                "score_total": "44",
+                "600a": "Ingels, Bjarke.",
+                "042a": "pcc",
+                "260a": "Köln :",
+                "260b": "Evergreen,",
+                "260c": "c2010."
+            }
+        }
+    }
+
+}

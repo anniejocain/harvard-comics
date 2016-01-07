@@ -1,0 +1,93 @@
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4">
+<section class="comicspage">
+  <div class="search">
+    <h1>Comics at Harvard</h1>
+    <form ng-submit="search()" class="form-inline">
+    <div class="form-group">
+    <label class="sr-only">Search</label>
+    <input ng-model="searchTerm" placeholder="Search" class="form-control" autofocus>
+    </div>
+    <input type="submit" class="btn btn-default" value="Go" />
+    <div class="checkbox">
+    <label>
+    <input type="checkbox" name="englishOnly" ng-model="englishOnly" ng-change="changeLanguage()" ng-true-value="English" ng-false-value=""> English only
+    </label>
+    </div>
+    <br><br>
+    <div class="checkbox">
+    <label>
+    <input type="checkbox" name="criticism" ng-model="criticism" ng-change="changeCriticism()" ng-true-value="" ng-false-value="&filter=-lcsh_keyword:criticism"> Include history and criticism
+    </label>
+    </div>
+    <br><br>
+    <label for="sortSelect">Sort by</label>
+    <select id="sortSelect" class="form-control" ng-model="sortOrder" ng-change="changeSort()">
+      <option value="pub_date" ng-selected="sortOrder=='pub_date'">Date</option>
+      <option value="shelfrank" ng-selected="sortOrder=='shelfrank'">Popularity</option>
+    </select>
+    <div class="browse-buttons">
+   <h3>Browse</h3>
+<h4>Genre</h4>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:"Science fiction comic books, strips, etc."' role="button">Science fiction</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:Manga' role="button">Manga</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:"Horror comic books, strips, etc."' role="button">Horror</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:Superhero' role="button">Superhero</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:"Detective and mystery comic books, strips, etc."' role="button">Detective/mystery</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:"Man-woman relationships Comic books, strips, etc."' role="button">Romance</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:Biography' role="button">Biography</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:Fantasy' role="button">Fantasy</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:History' role="button">History</a>
+<a class="btn btn-primary" href='#/search?f=lcsh_keyword:Underground' role="button">Underground</a>
+<h4>Language</h4>
+<a class="btn btn-primary" href='#/search?f=language:French' role="button">French</a>
+<a class="btn btn-primary" href='#/search?f=language:Italian' role="button">Italian</a>
+<a class="btn btn-primary" href='#/search?f=language:German' role="button">German</a>
+<a class="btn btn-primary" href='#/search?f=language:"Japanese (use for related languages)"' role="button">Japanese</a>
+<a class="btn btn-primary" href='#/search?f=language:Spanish' role="button">Spanish</a>
+<a class="btn btn-primary" href='#/search?f=language:"Korean (use for related lang. and dial.)"' role="button">Korean</a>
+<a class="btn btn-primary" href='#/search?f=language:Hebrew' role="button">Hebrew</a>
+<a class="btn btn-primary" href='#/search?f=language:Chinese' role="button">Chinese</a>
+<h4>Publisher</h4>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:"DC Comics"' role="button">DC Comics</a>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:Fantagraphics' role="button">Fantagraphics</a>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:Drawn Quarterly' role="button">Drawn & Quarterly</a>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:Pantheon' role="button">Pantheon</a>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:"dark horse"' role="button">Dark Horse</a>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:"image comics"' role="button">Image</a>
+<a class="btn btn-primary" href='#/search?f=publisher_keyword:"first second"' role="button">First Second</a>
+</div>
+  </div>
+</section>
+</div>
+<div class="col-md-6">
+<div class="comicslist">
+    <h3>{{label | labelConvert}}</h3>
+    <p ng-show='hits != null'>{{hits}} found</p>
+    <div ng-animate="'animate'" class="comics cf" ng-repeat="key in keys">
+      <a href="#/details/{{comics[key].id}}">
+        <div class="comics-cover-container" ng-switch on="comics[key].google_thumbnail_exists">
+            <div class="comics-cover-slot" ng-switch-when="true">
+                <img ng-src="{{comics[key].google_thumbnail}}">
+            </div>
+            <div class="comics-cover-slot" ng-switch-default>
+                <img src="http://images.amazon.com/images/P/{{comics[key].id_isbn[0] | isbnConvert }}.01._SSTHUM_.jpg">
+            </div>
+        </div>
+        </a>
+        <div class="info">
+          <p class="comics-title"><a href="#/details/{{comics[key].id}}">{{comics[key].title}}</a> {{comics[key].pub_date}}</p>
+          <p>{{comics[key].creator[0]}}</p>
+          <p ng-switch on="comics[key].available">
+            <span class="label label-success" ng-switch-when="true">Available</span>
+            <span class="label label-warning" ng-switch-default>Not available</span>
+          </p>
+          <p><a href="http://id.lib.harvard.edu/aleph/{{comics[key].id_inst}}/catalog">view in HOLLIS</a></p>
+        </div>
+    </div>
+  </div>  
+
+</div>
+</div>
+</div>

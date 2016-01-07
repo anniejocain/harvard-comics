@@ -1,0 +1,61 @@
+a {
+    padding-bottom:2px;
+    border-bottom:1px solid #F8D507;
+    color:#777;
+}
+
+a:hover, a:active {
+    text-decoration:none;
+    color:#777;
+}
+
+.comicslist {
+    margin-top:15px;
+}
+
+.comicslist .comics {
+    float:left;
+    position:relative;
+    clear:both;
+    margin:30px 0;
+}
+
+.comicslist .comics .info {
+    float:left;
+    position:relative;
+    max-width:70%;
+}
+
+.info .comics-title {
+    margin-bottom:5px;
+    font-size:12px;
+}
+
+.info .comics-title a {
+    font-size:18px;
+    color:#217FBE;
+    border-bottom:none;
+    margin-right:10px;
+}
+
+.comics-cover-container {
+    float:left;
+    margin-right:10px;
+    width:150px;
+    height:150px;
+    position:relative;
+}
+
+.comics-cover-slot img {
+    max-height:150px;
+}
+
+/*.comics-cover-slot {
+    position:absolute;
+    top:0px;
+    left:0px;
+}*/
+
+.browse-buttons .btn {
+    margin:8px;
+}
